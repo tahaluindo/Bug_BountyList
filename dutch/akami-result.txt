@@ -1,0 +1,898 @@
+https://1ratio.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:26:49 GMT', 'Server': 'Apache', 'X-Robots-Tag': 'noondex', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://2todrive.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:26:51 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://a16rotterdam.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:08 GMT', 'Transfer-Encoding': 'chunked'}
+https://a1oost.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:10 GMT', 'Transfer-Encoding': 'chunked'}
+https://a27a12ringutrecht.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:11 GMT', 'Transfer-Encoding': 'chunked'}
+https://a28a1knooppunthoevelaken.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:14 GMT', 'Transfer-Encoding': 'chunked'}
+https://a4burgerveen-n14.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:16 GMT', 'Transfer-Encoding': 'chunked'}
+https://a4haaglanden-n14.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:17 GMT', 'Transfer-Encoding': 'chunked'}
+https://a58tilburgbreda.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:19 GMT', 'Transfer-Encoding': 'chunked'}
+https://a6zonlelystaddronten.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:20 GMT', 'Transfer-Encoding': 'chunked'}
+https://aandeslagmetdeomgevingswet.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:27:25 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://aanmelder.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:27:29 GMT', 'Content-Type': 'text/html; charset=iso-8859-1', 'Content-Length': '304', 'Connection': 'keep-alive', 'Server': 'Apache/2.4.41'}
+https://aanpakringzuid.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:27:33 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://aardgasvrijewijken.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:27:36 GMT', 'Transfer-Encoding': 'chunked'}
+https://acm.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:27:44 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://adviescommissievoorvreemdelingenzaken.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:28:03 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://aerius.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:28:16 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000', 'Referrer-Policy': 'same-origin', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://afvalcirculair.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:28:19 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://agendalaadinfrastructuur.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:28:23 GMT', 'Transfer-Encoding': 'chunked'}
+https://agendastad.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:27:59 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://agendavoorhetwaddengebied2050.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:28:29 GMT', 'Server': 'Apache/2.4.29 (Ubuntu)', 'Content-Length': '321', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://agrimatie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:28:36 GMT', 'Connection': 'close', 'Content-Length': '339', 'Set-Cookie': 'WECR-P1-AM=!v2BQwf6DEbxMc35fhBOykbbSpbidWpVZTVTzF2iZg9mwiivYe3bqYfO91So4+O4VWkxGZMTzWVF2UOA=; path=/; Httponly'}
+https://akkoordverbeteringproductsamenstelling.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:28:48 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://algemenerekenkamer.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:28:53 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://alleenjijbepaalt.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:28:55 GMT', 'Server': 'Apache', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://allesisgezondheid.nl/robots.txt?version=poc123
+{'cache-control': 'no-cache', 'content-type': 'text/html'}
+https://allesoversport.nl/robots.txt?version=poc123
+{'cache-control': 'no-cache', 'content-type': 'text/html'}
+https://amberalert.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:29:01 GMT', 'Server': 'Apache', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=30', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://anvs.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:29:12 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://aquo.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://architectenregister.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:29:21 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://asbestvolgsysteem.nl/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains'}
+https://atgb.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:29:26 GMT', 'Server': 'Apache', 'Upgrade': 'h2,h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Cache-Control': 'no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0', 'Content-Type': 'text/html'}
+https://atlasinfectieziekten.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:29:28 GMT', 'Server': 'Apache/2.4.34 (Red Hat) PHP/7.3.33', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Transfer-Encoding': 'chunked'}
+https://atlasleefomgeving.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:29:30 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://atlasnatuurlijkkapitaal.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:29:32 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://autoriteitpersoonsgegevens.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:29:39 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://basisinformatie-overstromingen.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=15552000; includeSubDomains'}
+https://basisregistratieondergrond.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:29:49 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://beeldenvanderaad.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:30:03 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://belastingdienst.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:30:18 GMT', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'dcc028_001=!a11IjcPeCgJ3+OCslqvZJBzmyFN2pDrMbIDddyLYaMNOgM5v6Dl0h8PulYgEJK5FoOrgeCjRm2LaQw==; path=/; Httponly; Secure, dcc001_033=!c6fNbtLenZMMBaaRWZn2JaEgRKdmFf6xjvuJWxgRceyACtppxMCMXLpldvIeHmasRD7S3M2ek9oY; path=/; Httponly; Secure, TS01c28963=012cdb576b05f4d0e89b64465d0e4edeb55daef7e4f4b9374917a2aead57b9e6c14091f62a2bcf6da7815252f4396ac161db3e09c13b36dd316425bc5ffa67863c275f80d1312d709e46677e3555c27c0ee75df040; Path=/; Domain=.belastingdienst.nl; Secure; HTTPOnly', 'Strict-Transport-Security': 'max-age=31536000', 'X-Frame-Options': 'SAMEORIGIN'}
+https://bestrijdingsmiddelen-omwonenden.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:30:27 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://bibliopolis.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:30:40 GMT', 'Server': 'Apache', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=31536000', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://bidbook.eu/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:30:43 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://biedboek.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:30:45 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://biociden.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:30:52 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://bio-enerco.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:30:56 GMT', 'Transfer-Encoding': 'chunked'}
+https://bkwi.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:31:10 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://blankenburgverbinding.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:31:11 GMT', 'Transfer-Encoding': 'chunked'}
+https://blauwegolfverbindend.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:31:14 GMT', 'Server': 'Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'X-Frame-Options': 'sameorigin', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://bodemambities.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:31:17 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://bodemplus.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:31:20 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://bofeb.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:31:26 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://bouwcollege.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://brba.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:31:44 GMT', 'Server': 'Apache', 'Feature-Policy': "camera 'none'; microphone 'none'; geolocation 'none'; encrypted-media 'none'; payment 'none'; speaker 'none'; usb 'none'", 'Referrer-Policy': 'same-origin', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'X-Dns-Prefetch-Control': 'off', 'X-Download-Options': 'noopen', 'X-Frame-Options': 'sameorigin', 'X-Xss-Protection': '1; mode=block', 'Permissions-Policy': 'interest-cohort=()', 'X-Permitted-Cross-Domain-Policies': 'none', 'Access-Control-Expose-Headers': 'date', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://broloket.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:31:49 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://brzoplus.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:31:56 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://building-with-nature.eu/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:32:01 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://buitenlevenvakanties.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://bureaubiosecurity.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:32:08 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://bureauft.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:32:09 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubdomains; preload', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://burgernet.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:32:20 GMT', 'Server': 'Apache', 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'max-age=30', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://cbsinuwbuurt.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://cbs.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://centruminternationaalrecht.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:26:03 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://chemischestoffengoedgeregeld.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://circularandfairictpact.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:33:23 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://circularfestivals.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:33:26 GMT', 'Transfer-Encoding': 'chunked'}
+https://ciz.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:33:30 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://clo.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:33:34 GMT', 'Server': 'Apache', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'Cookie_batchJob=!wlH1HadU1Of5Cn1Jo+qwDVXNI52z5YrM+NQrBwevHic3VLh70UXn5upNJGLdoleJNQMOuIR+ex1VQA==; path=/; Httponly; Secure', 'X-XSS-Protection': '1; mode=block', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Feature-Policy': "camera microphone 'self'; geolocation 'self'", 'X-Frame-Options': 'SAMEORIGIN, SAMEORIGIN', 'X-Content-Type-Options': 'nosniff'}
+https://co2emissiefactoren.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:33:35 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://cokz.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:33:46 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://contactpuntbouwproducten.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:34:05 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://coordinatiestroomlijn.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:34:08 GMT', 'Transfer-Encoding': 'chunked'}
+https://corridoramsterdamhoorn.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:34:23 GMT', 'Transfer-Encoding': 'chunked'}
+https://courtmh17.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Wed, 25 Jan 2023 15:34:25 GMT', 'Server': 'ECLF (mrs/CB35)'}
+https://criminaliteitinbeeld.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://crisis.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:34:45 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://crisistest.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:34:46 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://csirtdsp.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:34:48 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://cvdm.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:35:05 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://cvta.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:35:07 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://cyber-magazine.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://cybersecurityalliantie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:35:17 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000;', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://dagvandeforensischezorg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:35:25 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://databronnencovid19.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:35:32 GMT', 'X-Cnection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://datachallenge.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:35:34 GMT', 'Server': 'Apache/2', 'Content-Length': '301', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://deconcurrenten.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:35:55 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://dekinderombudsman.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://delichtkogel.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:36:06 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://delpher.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:36:10 GMT', 'Server': 'Apache', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=31536000', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://denationaleomgevingsvisie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:36:16 GMT', 'Transfer-Encoding': 'chunked'}
+https://dgv.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:36:33 GMT', 'Server': 'Apache/2.4.41 (Ubuntu)', 'Strict-Transport-Security': 'max-age=63072000', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Content-Length': '299', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://digicampus.tech/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://digitaltrustcenter.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:37:01 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://directduidelijk.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:37:11 GMT', 'Server': 'Apache', 'Upgrade': 'h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Content-Type': 'text/html'}
+https://dischargetest.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000'}
+https://disportal.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:37:15 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://doortrappen.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:37:34 GMT', 'Transfer-Encoding': 'chunked'}
+https://douane.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:37:45 GMT', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'dcc028_001=!n5fvmvUT0WmH8WGslqvZJBzmyFN2pKpvR9U9R9ZJCiDxSo/Pm/mt1/BMveroPSU8wv/PcNB19BoMfQ==; path=/; Httponly; Secure, dcc001_034=!2W8ggf006EnCdWeRWZn2JaEgRKdmFR2dubvSxXXIq/GgANDY2KM9sX8CQBQpSbd3QskKI7nwPc87fQ==; path=/; Httponly; Secure, TS01be1ed2=012cdb576b30fd01f88596d9d1e96db37a61189bc3541d6bdd7da546cee8bdec9837b334ec72508b78e066a6839dee69878675d7e3715c9ef410c073c51ab70df79fa25583a86b7c0c5da6083ad956f48cfd08ba3d; Path=/; Domain=.douane.nl; Secure; HTTPOnly', 'Strict-Transport-Security': 'max-age=31536000', 'X-Frame-Options': 'SAMEORIGIN'}
+https://draaiboekpsie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:37:47 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://dustex.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:37:59 GMT', 'X-Cnection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://dutchsocialmediaguide.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:38:16 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'X-Xss-Protection': '1; mode=block', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', 'Feature-Policy': "vibrate 'self'; microphone 'none'; payment 'none'; sync-xhr 'self' socialemediagidsbz.nl", 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://duurzaamgww.nl/robots.txt?version=poc123
+{'cache-control': 'no-cache', 'content-type': 'text/html'}
+https://duurzaamheidsroutea35.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:38:27 GMT', 'Transfer-Encoding': 'chunked'}
+https://dynamo-hia.eu/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:38:42 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://earonline.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://efeat.org/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:38:59 GMT', 'X-Cnection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://emaddc.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:39:07 GMT', 'Transfer-Encoding': 'chunked'}
+https://emissieregistratie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:10 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://e-mjv.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:16 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://emnnetherlands.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:18 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://energiehout.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:39:19 GMT', 'Transfer-Encoding': 'chunked'}
+https://energieoprijksgrond.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:39:22 GMT', 'Transfer-Encoding': 'chunked'}
+https://enterpriseeuropenetwork.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:31 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://enwinfo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:39:33 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://equal-life.eu/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:38 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://e-rihs.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:48 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://ewnederland.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:39:56 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://expertisecentrumwarmte.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:40:12 GMT', 'Transfer-Encoding': 'chunked'}
+https://fairproject.org/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:40:17 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://farmacotherapeutischkompas.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:40:19 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://feedfoodtransfer.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:40:26 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://festivalforensischezorg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:40:29 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://forensischezorg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:40:52 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=15768000', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://formulierdus-i.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:40:55 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://functiegebouwrijksoverheid.nl/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://geheugenvannederland.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:41:16 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://geleacademie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:41:22 GMT', 'Transfer-Encoding': 'chunked'}
+https://geoforum.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload'}
+https://gerechtelijkebrief.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:41:32 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://gezondekinderopvang.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:41:45 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://gezondeleefomgeving.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:41:48 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://gezondeschool.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:41:50 GMT', 'Server': 'Apache', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Transfer-Encoding': 'chunked'}
+https://ggo-vergunningverlening-zoeken.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:41:57 GMT', 'X-Cnection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://gipdatabank.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:41:59 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://gipinfo.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:42:01 GMT', 'Server': '', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://globio.info/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:42:03 GMT', 'Server': 'Apache', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://gov4nano.eu/robots.txt?version=poc123
+{'Connection': 'close', 'cache-control': 'private, no-cache, no-store, must-revalidate, max-age=0', 'pragma': 'no-cache', 'content-type': 'text/html', 'content-length': '681', 'date': 'Wed, 25 Jan 2023 15:42:13 GMT', 'server': 'LiteSpeed'}
+https://grensdata.eu/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:42:24 GMT', 'Connection': 'close', 'Referrer-Policy': 'same-origin', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Transfer-Encoding': 'chunked'}
+https://grensinfo.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:42:26 GMT', 'Server': '', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://groenalliantiemiddenholland.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:42:28 GMT', 'Transfer-Encoding': 'chunked'}
+https://grondstoffenscanner.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:42:29 GMT', 'Connection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload'}
+https://haaglandenveilig.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Wed, 25 Jan 2023 15:42:31 GMT'}
+https://handelingenbank.info/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:42:35 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://hansken.org/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:42:38 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://helpdeskwater.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:42:47 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://herkomstgezocht.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://higherlevel.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:41:11 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000; includeSubdomains; preload', 'X-XSS-Protection': '1; mode=block', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'no-referrer-when-downgrade', 'Expect-CT': 'max-age=0', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://hiswa.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:43:00 GMT', 'Content-Type': 'text/html; charset=iso-8859-1', 'Content-Length': '226', 'Connection': 'keep-alive', 'Server': 'Apache/2.4.51 ()'}
+https://hoepakjijdataan.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:43:03 GMT', 'Server': 'Apache', 'Content-Length': '289', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'BIGipServerBITED-http-linux-new-http-v4=22027274.20480.0000; path=/; Httponly; Secure; SameSite=none'}
+https://horizonscangeneesmiddelen.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:43:32 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://ienc-kennisportaal.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:44:08 GMT', 'Server': 'Apache/2.4.52 (Ubuntu)', 'Content-Length': '314', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://ifv.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://ikbenhandelaar.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:44:21 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://immissietoets.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000'}
+https://incca.org/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://incidentmanagement.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:44:40 GMT', 'Transfer-Encoding': 'chunked'}
+https://infomil.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:44:42 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://informatiehuismarien.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:44:48 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://informatiepuntdigitaleoverheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:44:49 GMT', 'Server': 'Apache', 'Upgrade': 'h2,h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Content-Type': 'text/html'}
+https://innova58.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:44:58 GMT', 'Transfer-Encoding': 'chunked'}
+https://innovember.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:07 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://inspectie-checklist.nl/robots.txt?version=poc123
+{}
+https://inspectie-publicaties.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:18 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://inspectieresultatenszw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:20 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://inspectieszw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:23 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://inspectieview.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'Set-Cookie': 'TS0169d88f=015d4243a61f0c3acd0155819e0495a7ce0f094422dfac5c5315ddd584161ad9832fcb7dceba1cbeedc4fcb3595d79184014b5117d; Path=/; Domain=.inspectieview.nl; Secure; HTTPOnly', 'Transfer-Encoding': 'chunked'}
+https://inspectorateszw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:29 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://inspiratiedagduurzameveehouderij.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:45:33 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://inspireaanmerking.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://internationaalondernemen.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:45:37 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://internetconsultatie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:45:44 GMT', 'Connection': 'close', 'Content-Length': '339', 'X-Frame-Options': 'SAMEORIGIN', 'Expect-CT': 'enforce, max-age=30', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "frame-ancestors 'self'", 'x-webkit-csp': "frame-ancestors 'self'", 'X-Content-Security-Policy': "frame-ancestors 'self'", 'Referrer-Policy': 'strict-origin-when-cross-origin', 'Permissions-Policy': 'geolocation=(), midi=(), notifications=(), push=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://interspeciesinfo.com/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:43:37 GMT', 'Server': 'Apache/2.4.7 (Ubuntu)', 'Content-Length': '316', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://iplo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:54 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://ishetafval.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:45:56 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://istandaarden.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:45:58 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://iuc-noord.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://jaarberichtrijkswaterstaat.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:06 GMT', 'Server': 'Apache/2.4.54 (Ubuntu)', 'Content-Length': '308', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://jaarverslagrechtspraak.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:13 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://jenvconnect.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:14 GMT', 'Server': 'Apache', 'Content-Length': '286', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://jokesmitprijs.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:46:19 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://justitieleinterventies.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://kamerindeklas.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:42 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://kansspelautoriteit.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:46:45 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://kb.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:48 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://kbvg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:50 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://kcwj.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:46:53 GMT', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Expect-CT': 'enforce, max-age=30', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "frame-ancestors 'self'", 'x-webkit-csp': "frame-ancestors 'self'", 'X-Content-Security-Policy': "frame-ancestors 'self'", 'Referrer-Policy': 'same-origin', 'Permissions-Policy': 'geolocation=(), midi=(), notifications=(), push=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://kenniscentrum-oo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:46:57 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://kennisknooppuntparticipatie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:46:59 GMT', 'Transfer-Encoding': 'chunked'}
+https://kennisnetwerkbiociden.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:47:00 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://kennisplatformveehouderij.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:47:12 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://kennisplatformvhg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:47:14 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://keringhuis.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:47:18 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://kiezen-en-delen.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:47:25 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://kijkenoverdegrens.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:47:27 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://klimaatadaptatienederland.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:47:42 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://knawonderwijsprijs.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:47:51 GMT', 'Server': 'Apache', 'X-XSS-Protection': '1; mode=block', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://kosteneffectiviteitvanpreventie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:48:20 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://kvkregiodata.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:48:27 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://landelijkregisterkinderopvang.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:48:37 GMT', 'Server': 'Apache', 'X-Robots-Tag': 'noondex', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://lap3.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:48:38 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://lavsinfo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:48:41 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://lcms.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:48:45 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://leefbaarometer.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:48:47 GMT', 'Server': 'Apache/2.4.29 (Ubuntu)', 'Referrer-Policy': 'same-origin', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Content-Length': '310', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://leerplatformmirt.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:48:48 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://leidraadse.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:48:55 GMT', 'Server': 'Apache', 'Content-Length': '299', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://lerenvoorveiligheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:02 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://liv.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://lma.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:49:17 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://locatiescan.info/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:19 GMT', 'Server': 'Apache', 'Expires': 'Thu, 19 Nov 1981 08:52:00 GMT', 'Cache-Control': 'no-store, no-cache, must-revalidate', 'Pragma': 'no-cache', 'Link': '<https://locatiescan.info/wp-json/>; rel="https://api.w.org/"', 'Set-Cookie': 'PHPSESSID=690cca7e932bdee0e6a934da7a65737a; path=/', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Connection': 'close', 'Content-Type': 'text/plain; charset=utf-8'}
+https://locov.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:49:23 GMT', 'Transfer-Encoding': 'chunked'}
+https://logerenbijdeboswachter.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:49:22 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://lokaalklimaatportaal.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:49:27 GMT', 'Transfer-Encoding': 'chunked'}
+https://loketgentherapie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:30 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://loketgezondleven.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:32 GMT', 'Server': 'Apache', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Transfer-Encoding': 'chunked'}
+https://luchtvaartmeteo.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:39 GMT', 'Content-Type': 'text/html; charset=iso-8859-1', 'Content-Length': '318', 'Connection': 'keep-alive', 'Set-Cookie': 'AWSALB=EhT7VRWlvGC/TLNupJcydPkh23oSnpV5xQ0kkFc/AlTdQB0xiGQaME4NnqhFjxDr0+4y8fcH680T5w5wOT6QTWSqfCAgQ2TTcvvZJpEBs++2C2I3SxCeIL8hSuCq; Expires=Wed, 01 Feb 2023 15:49:39 GMT; Path=/, AWSALBCORS=EhT7VRWlvGC/TLNupJcydPkh23oSnpV5xQ0kkFc/AlTdQB0xiGQaME4NnqhFjxDr0+4y8fcH680T5w5wOT6QTWSqfCAgQ2TTcvvZJpEBs++2C2I3SxCeIL8hSuCq; Expires=Wed, 01 Feb 2023 15:49:39 GMT; Path=/; SameSite=None; Secure', 'Server': 'Apache'}
+https://matra-south.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:58 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://medicijnkosten.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:50:01 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://meldknop.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://meldpuntbodemkwaliteit.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:50:11 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://metenvanduurzaamheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:50:20 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://mett.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://mijnverblijfsdocument.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:50:51 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://mijnwerkenzekerheid.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:50:53 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://mindergrondrisico.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:50:57 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://minienm.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:51:02 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://minienw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:51:04 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://mirta20nieuwerkerkgouda.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:12 GMT', 'Transfer-Encoding': 'chunked'}
+https://mirta2deilvught.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:14 GMT', 'Transfer-Encoding': 'chunked'}
+https://mirta67leenderheidezaarderheiken.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:15 GMT', 'Transfer-Encoding': 'chunked'}
+https://missionsustainable.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:49:54 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://mjpo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:51:26 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://mkdoorn.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:28 GMT', 'Transfer-Encoding': 'chunked'}
+https://mobiliteitsbank.nl/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://mobiliteitsscan-info.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:51:33 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://monitorgezondheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:51:40 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://monozakelijk.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:46 GMT', 'Transfer-Encoding': 'chunked'}
+https://move-rdh.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:50 GMT', 'Transfer-Encoding': 'chunked'}
+https://mvicongres.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:51:52 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://n35wijthmennijverdal.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:58 GMT', 'Transfer-Encoding': 'chunked'}
+https://n3werkzaamheden.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:51:59 GMT', 'Transfer-Encoding': 'chunked'}
+https://naarnederland.nl/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://nak.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:52:03 GMT', 'Server': 'Apache/2', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://naktuinbouw.com/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:52:06 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://naktuinbouw.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:52:08 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://nationaalgeoregister.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:52:16 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', 'Last-Modified': 'Tue, 27 Sep 2022 15:58:19 GMT', 'ETag': '"764-5e9aab67e5cc0"', 'Accept-Ranges': 'bytes', 'Content-Length': '1892', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://nationaalparkeerregister.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://nationaalwaterstofprogramma.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:52:23 GMT', 'Transfer-Encoding': 'chunked'}
+https://nationaleenergieatlas.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:52:27 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://nationaleombudsman.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://nationaleparkenbureau.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:52:34 GMT', 'Transfer-Encoding': 'chunked'}
+https://natuurbrandrisico.nl/robots.txt?version=poc123
+{'cache-control': 'no-cache', 'content-type': 'text/html'}
+https://natuurenrecreatieschapijsselmonde.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:52:44 GMT', 'Transfer-Encoding': 'chunked'}
+https://natuurlijkveilig.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:52:46 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://nba.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://neorah.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:53:16 GMT', 'X-Cnection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://nieuwsbriefdor.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:53:34 GMT', 'Server': 'Apache/2', 'X-XSS-Protection': '1; mode=block', 'X-Frame-Options': 'sameorigin', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'strict-origin', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://nieuwsienw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:53:39 GMT', 'Transfer-Encoding': 'chunked'}
+https://nieuwsszw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:53:39 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://niwo.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:53:44 GMT', 'Server': 'Apache', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://nji.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:53:50 GMT', 'Server': 'Apache', 'Content-Length': '284', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://nlmaps.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload'}
+https://noordzeeloket.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:54:02 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://noraonline.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://northseaportal.eu/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:54:06 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://novistukken.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:54:08 GMT', 'Transfer-Encoding': 'chunked'}
+https://nunietzwanger.nl/robots.txt?version=poc123
+{'cache-control': 'no-cache', 'content-type': 'text/html'}
+https://nwo-i.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:54:26 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://nwo.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://odc-noord.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://omgevingsloket.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:54:50 GMT', 'Server': 'Apache', 'Accept-Ranges': 'bytes', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://omgevingswijzer.org/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:54:51 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://on2013.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:54:55 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://onbedoeldzwanger.info/robots.txt?version=poc123
+{'Connection': 'close', 'cache-control': 'private, no-cache, no-store, must-revalidate, max-age=0', 'pragma': 'no-cache', 'content-type': 'text/html', 'content-length': '681', 'date': 'Wed, 25 Jan 2023 15:54:57 GMT', 'server': 'LiteSpeed'}
+https://onderwijsinderegioincijfers.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:54:59 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://onderzoeksraad.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:05 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://one-conference.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:08 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://onehealth.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:10 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://onzedelta.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://openkat.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:28 GMT', 'Server': 'Apache', 'Feature-Policy': "camera 'none'; microphone 'none'; geolocation 'none'; encrypted-media 'none'; payment 'none'; speaker 'none'; usb 'none'", 'Referrer-Policy': 'same-origin', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'X-Content-Type-Options': 'nosniff', 'X-Dns-Prefetch-Control': 'off', 'X-Download-Options': 'noopen', 'X-Frame-Options': 'sameorigin', 'X-Xss-Protection': '1; mode=block', 'Permissions-Policy': 'interest-cohort=()', 'X-Permitted-Cross-Domain-Policies': 'none', 'Content-Security-Policy': "frame-ancestors 'self'; upgrade-insecure-requests; default-src 'self' data: ; script-src 'self' ; style-src 'self' ; connect-src data: 'self'; block-all-mixed-content; form-action 'self';", 'Access-Control-Expose-Headers': 'date', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://opnieuwthuis.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:32 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://opwegmetwaterstof.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:35 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://opwegnaarzes.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://orfeus-eu.org/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:47 GMT', 'Server': 'Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips mod_qos/11.70 mod_wsgi/3.4 Python/2.7.5', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://osresultaten.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:55:49 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://ouders-uit-elkaar.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:55:52 GMT', 'Connection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://overlegorgaanfysiekeleefomgeving.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:56:04 GMT', 'Transfer-Encoding': 'chunked'}
+https://pbl.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:20 GMT', 'Server': 'Apache', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'BIGipServerwww.pbl.nl_http_pool=710467715.20480.0000; path=/; Httponly; Secure', 'X-XSS-Protection': '1; mode=block', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'Feature-Policy': "camera microphone 'self'; geolocation 'self'", 'X-Frame-Options': 'SAMEORIGIN, SAMEORIGIN', 'X-Content-Type-Options': 'nosniff'}
+https://pdok.nl/robots.txt?version=poc123
+{'Content-Length': '0'}
+https://perined.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:30 GMT', 'Server': 'Apache', 'X-Xss-Protection': '1; mode=block', 'Strict-Transport-Security': 'max-age=63072000; includeSubdomains; preload', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://pkioverheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:43 GMT', 'Server': 'Apache', 'X-Frame-Options': 'SAMEORIGIN', 'Referrer-Policy': 'same-origin', 'Content-Security-Policy': "default-src 'self'; style-src crl.pkioverheid.nl; img-src crl.pkioverheid.nl; frame-src 'self'; frame-ancestors 'self'", 'Content-Length': '278', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://placesofhope.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:44 GMT', 'Server': 'Apache', 'Upgrade': 'h2,h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Cache-Control': 'no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0', 'Content-Type': 'text/html'}
+https://platformafvalcirculair.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:56:46 GMT', 'Transfer-Encoding': 'chunked'}
+https://platformduurzamehuisvesting.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:47 GMT', 'Server': 'Apache', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://platformparticipatie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:56:55 GMT', 'Transfer-Encoding': 'chunked'}
+https://pleinbzk.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:59 GMT', 'Server': 'Apache', 'Content-Length': '286', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://pns.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:57:05 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://politieacademie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:57:07 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000;includeSubDomains, max-age=31536000; includeSubDomains; preload', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://politieorkest.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://politieplanner.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:57:19 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://politiesport.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:57:21 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://poraad.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://prettigcontactmetdeoverheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:57:36 GMT', 'Server': 'Apache', 'Upgrade': 'h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Content-Type': 'text/html'}
+https://pzp.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'webserver', 'X-Cnection': 'close', 'Content-Length': '339', 'Date': 'Wed, 25 Jan 2023 15:58:04 GMT', 'Connection': 'keep-alive', 'Set-Cookie': 'ACDE=!7pQD0+YUiMAIm15Wutxak9d7A8JVkAmoX3HE3VSFf3TTuBQN5dySDRuCz8N74NeSyPMp8Yto3t/g2yeD12tIIjeqI88S7PtsQmkby17g; path=/; Httponly; Secure'}
+https://raadbaak.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:58:09 GMT', 'Server': 'Apache', 'Content-Length': '286', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://raadrechtshandhaving.com/robots.txt?version=poc123
+{'Connection': 'close', 'cache-control': 'private, no-cache, no-store, must-revalidate, max-age=0', 'pragma': 'no-cache', 'content-type': 'text/html', 'content-length': '681', 'date': 'Wed, 25 Jan 2023 15:58:12 GMT', 'server': 'LiteSpeed'}
+https://raadvanstate.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:58:18 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://raadvoorhetoverheidspersoneelsbeleid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:58:22 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://rdw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://rechtenoverheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:58:38 GMT', 'Server': 'Apache/2', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://rechtsbijstand.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:58:40 GMT', 'Connection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://rechtwijzer.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:59:15 GMT', 'Connection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://recreatieschaprottemeren.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:59:18 GMT', 'Transfer-Encoding': 'chunked'}
+https://recreatieschapvoorneputten.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 15:59:19 GMT', 'Transfer-Encoding': 'chunked'}
+https://regioatlas.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://regiobeeld.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:59:27 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://registerexterneveiligheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:59:31 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://rekenhulptransitievergoeding.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:59:35 GMT', 'Server': 'Apache/2.4.29 (Ubuntu)', 'Content-Length': '315', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://rijkewaddenzee.nl/robots.txt?version=poc123
+{'Connection': 'close', 'cache-control': 'private, no-cache, no-store, must-revalidate, max-age=0', 'pragma': 'no-cache', 'content-type': 'text/html', 'content-length': '681', 'date': 'Wed, 25 Jan 2023 15:59:42 GMT', 'server': 'LiteSpeed'}
+https://rijksbegroting.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:59:46 GMT', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Expect-CT': 'enforce, max-age=30', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Content-Security-Policy': "frame-ancestors 'self'", 'x-webkit-csp': "frame-ancestors 'self'", 'X-Content-Security-Policy': "frame-ancestors 'self'", 'Referrer-Policy': 'strict-origin-when-cross-origin', 'Permissions-Policy': 'geolocation=(), midi=(), notifications=(), push=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://rijksbeveiliging.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 15:59:48 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://rijksbrededienstverleners.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:59:51 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://rijkscloud.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://rijksictgilde.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:00:04 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://rijksnormering.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:59:30 GMT', 'Server': 'prod', 'Strict-Transport-Security': 'max-age=31536000', 'Referrer-Policy': 'no-referrer-when-downgrade', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'sameorigin', 'X-XSS-Protection': '1; mode=block', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://rijksvaccinatieprogramma.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:00:19 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000'}
+https://rijkswaterstaatdata.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:00:23 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://risicokaart.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:00:27 GMT', 'Server': 'Apache', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=63072000; includeSubdomains; preload', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://risicotoolboxbodem.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:00:31 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://rivm.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:00:36 GMT', 'Server': 'Apache', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'X-XSS-Protection': '1; mode=block', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'Strict-Transport-Security': 'max-age=31536000', 'Feature-Policy': "camera microphone 'self'; geolocation 'self'", 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Vary': 'Accept-Encoding'}
+https://rottumerplaat50jaarlater.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:00:40 GMT', 'Transfer-Encoding': 'chunked'}
+https://rvr.org/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:05 GMT', 'Connection': 'close', 'Content-Length': '339', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://rwscirculair.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:06 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://rwsduurzamemobiliteit.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:11 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://rwsenvironment.eu/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:15 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://rwsinnoveert.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:17 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://rwsnatura2000.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:01:20 GMT', 'Transfer-Encoding': 'chunked'}
+https://rwsverkeersinfo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000'}
+https://saip.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:26 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://samenmetenaanluchtkwaliteit.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:01:29 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://samenwerkenaanriviernatuur.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:01:32 GMT', 'Transfer-Encoding': 'chunked'}
+https://sawa-vth.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:35 GMT', 'Connection': 'close', 'Content-Length': '339', 'Set-Cookie': 'NSC_qse_dt_ubshfu_tbxb-wui.om=ffffffff09795fc545525d5f4f58455e445a4a42378b;expires=Wed, 25-Jan-2023 16:06:48 GMT;path=/;secure;httponly'}
+https://sbr-wonen.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:01:40 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://schadedoormijnbouw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:01:44 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://schadefonds.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:01:46 GMT', 'Server': 'Apache/2.4.41 (Ubuntu)', 'Content-Length': '307', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://schakeldagen.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:48 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://schoneluchtakkoord.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:50 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://schonerivieren.org/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:01:52 GMT', 'Server': 'Apache', 'Upgrade': 'h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Content-Type': 'text/html'}
+https://schoudersonderschoon.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:01:59 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://ser.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:02:05 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://signalenleefomgeving.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:02:11 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://signaleringleefomgevingengezondheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:02:13 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://slimmezorgestafette2022.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:02:22 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://slimwatermanagement.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:02:26 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://slo.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:02:27 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://sociaalfondsminienw.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:02:33 GMT', 'Transfer-Encoding': 'chunked'}
+https://socialemediagidsbz.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:02:35 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'X-Xss-Protection': '1; mode=block', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'same-origin', 'Feature-Policy': "vibrate 'self'; microphone 'none'; payment 'none'; sync-xhr 'self' socialemediagidsbz.nl", 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://socrates2.org/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://solliciterenbijciz.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:02:45 GMT', 'Connection': 'close', 'Expect-CT': 'enforce, max-age=31536000', 'Strict-Transport-Security': 'max-age=31536000', 'Transfer-Encoding': 'chunked', 'Content-Encoding': 'gzip', 'Vary': 'Accept-encoding'}
+https://spaceoffice.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '345', 'Connection': 'close', 'Date': 'Wed, 25 Jan 2023 16:02:48 GMT', 'Server': 'lighttpd'}
+https://sportakkoord.nl/robots.txt?version=poc123
+{'cache-control': 'no-cache', 'content-type': 'text/html'}
+https://sportenbewegenincijfers.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:02:52 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://sportinnovator.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:02:54 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000;', 'Referrer-Policy': 'same-origin', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://sso-noord.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:03:06 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://ssr.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:03:08 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://staatsbosbeheer.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:03:09 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://staatvenz.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:03:16 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://stelselcatalogus.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://stembureauinstructie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:03:29 GMT', 'Server': 'Apache/2.4.29 (Ubuntu)', 'Content-Length': '315', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://steunpuntcoronazorgen.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:03:31 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://stimuleringsfonds.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://stimva.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:03:38 GMT', 'Transfer-Encoding': 'chunked'}
+https://striping.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://summercourt.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:03:50 GMT', 'Server': 'Apache', 'Upgrade': 'h2,h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Cache-Control': 'no-cache, no-store, must-revalidate', 'Pragma': 'no-cache', 'Expires': '0', 'Content-Type': 'text/html'}
+https://svb.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:04:00 GMT', 'Server': '', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://teebstad.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:04:10 GMT', 'Server': 'Apache', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://tenderned.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:04:18 GMT', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31556952; includeSubDomains; preload'}
+https://testenvoortoegang.org/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:04:18 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://tno.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:04:29 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://toegangsociaaldomein.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '345', 'Connection': 'close', 'Date': 'Wed, 25 Jan 2023 16:04:32 GMT', 'Server': 'lighttpd'}
+https://toezichtfestival.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:04:50 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://toolkitomgevingswet.nl/robots.txt?version=poc123
+{}
+https://topcorridors.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:05:00 GMT', 'Transfer-Encoding': 'chunked'}
+https://topotijdreis.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://topsectoragrifood.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:05:07 GMT', 'Server': 'Apache', 'X-Content-Type-Options': 'nosniff', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://usar.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://vaarweginformatie.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:05:56 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000', 'X-Frame-Options': 'DENY', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://vangbuitenshuis.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:06:00 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://vang-hha.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:06:02 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://veiligheidbegintbijvoorkomen.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://veiligheidsberaad.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://veiliginternetten.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:06:13 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://veiligtatoeerenenpiercen.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:06:15 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://veiligvakmanschap.nl/robots.txt?version=poc123
+{}
+https://verantwoordalcoholverkopen.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:06:25 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://verduurzamingindustrie.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:06:38 GMT', 'Transfer-Encoding': 'chunked'}
+https://vergroendezorg.nl/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://verhalenoverdeoorlog.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:06:42 GMT', 'Server': '', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://verkeersveiligheidscampagnes.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:06:46 GMT', 'Transfer-Encoding': 'chunked'}
+https://verkiezingsuitslagen.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://verlofregelaar.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:06:51 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://verrekeningneveninkomsten.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:06:54 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://via15.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Wed, 25 Jan 2023 16:07:04 GMT', 'Transfer-Encoding': 'chunked'}
+https://vipasbest.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:08 GMT', 'Server': 'Apache', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://vliegtuiggeluid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:12 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://volksgezondheidenzorg.info/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:16 GMT', 'Server': 'Apache', 'Content-Length': '226', 'X-Cnection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://volksgezondheidtoekomstverkenning.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:19 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://voordejeugd.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:07:22 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://vo-raad.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://vtv2018.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:39 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://vvg-lenp.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://vzvz.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://waarborg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:46 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://waarderingskamer.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:06:22 GMT', 'Server': 'wdk', 'Strict-Transport-Security': 'max-age=31536000', 'Referrer-Policy': 'no-referrer-when-downgrade', 'X-Content-Type-Options': 'nosniff', 'X-Frame-Options': 'sameorigin', 'X-XSS-Protection': '1; mode=block', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://waddenzee.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:07:57 GMT', 'Server': 'Apache/2.4.29 (Ubuntu)', 'Content-Length': '321', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://wateetnederland.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:00 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://waterbeschikbaarheid.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:08:04 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://waterveiligheidsportaal.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:13 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'X-Frame-Options': 'sameorigin', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://watvoorhandhaverbenjij.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:03 GMT', 'Server': 'Apache/2.4.51 (FreeBSD) OpenSSL/1.1.1k-freebsd', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://weerbaarbestuur.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:23 GMT', 'Server': 'Apache', 'Upgrade': 'h2c', 'Connection': 'Upgrade, close', 'Accept-Ranges': 'bytes', 'Content-Type': 'text/html'}
+https://weerbaredigitaleoverheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:25 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://wegtotdewetenschap.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:27 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://werkconferentie-lnv.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:34 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://werkenbijciz.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:36 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'SAMEORIGIN', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://werkenbijdeoverheid.nl/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://werkenbijhetkadaster.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://werkenbijhetom.nl/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://werkenvoornederland.nl/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://whofic.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:08:57 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://wikixl.nl/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://windopzee.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:09:03 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://wkotool.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:06 GMT', 'Access-Control-Allow-Origin': 'dictu.nl, rvo.nl, rvo.intern, arcgis.com', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': '_gen-chocolate-chipped=!unEPHMbqQUx8+vYXoxWFvnf0ubKqe+O15HU1jlpp6P4YG4cGxh+6nU0RRhRzpmUMYtmz2mFASFQIKA==; path=/; Httponly; Secure, TS0190887b=015d4243a689c68ad5dd837f2bc89dc57601421b908814ee06d3927205c9147d69e9f4f38812a335daa6c285afbd556be6ef369a5b65b44d5e561b008f95eaa5b76d102fad; Path=/; Domain=.wkotool.nl; Secure; HTTPOnly', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://wodc-repris.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:13 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://woningmarktbeleid.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:09:15 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://zakendoeninchina.org/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:31 GMT', 'Server': 'Apache/2', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://zeeweringenwiki.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:33 GMT', 'Server': 'Apache', 'Content-Length': '347', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://zelfinspectie.nl/robots.txt?version=poc123
+{}
+https://zichtopondermijning.nl/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://zonmw.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:45 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://zorgcijfersdatabank.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:47 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://zorgcsp.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:50 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains; preload', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://zorginzicht.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:09:53 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://zorgopdekaart.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:09:55 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://zorgpact.nl/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Wed, 25 Jan 2023 16:09:58 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://zorgvannu.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:10:02 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Content-Type': 'text/html; charset=iso-8859-1', 'Age': '0', 'X-VS': '0 264168294', 'Connection': 'keep-alive'}
+https://zorgverzekeringslijn.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:10:04 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://zuid-west380kv.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:10:11 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://zwemwater.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 16:10:15 GMT', 'Server': 'Apache', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=63072000; includeSubdomains; preload', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}

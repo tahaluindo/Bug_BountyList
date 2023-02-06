@@ -1,0 +1,2 @@
+https://docs.corporatetools.com/robots.txt?version=poc123
+{'Content-Type': 'application/xml', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Fri, 13 Jan 2023 16:19:10 GMT', 'Server': 'AmazonS3', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 153a29b6f73d1188a3a2c0797369516a.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P4', 'X-Amz-Cf-Id': 's_1on9BQ2dFxauehNM2sLLINDrWLPoNFtpxgQKhgUHcrpP2Qbvf4LQ=='}

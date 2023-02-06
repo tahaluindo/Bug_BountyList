@@ -1,0 +1,4 @@
+https://kennisplatformvhg.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:47:14 GMT', 'Server': 'Apache', 'Cache-Control': 'no-cache, private', 'X-Content-Type-Options': 'nosniff', 'Connection': 'close', 'Transfer-Encoding': 'chunked', 'Content-Type': 'text/html; charset=UTF-8', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains'}
+https://pkioverheid.nl/robots.txt?version=poc123
+{'Date': 'Wed, 25 Jan 2023 15:56:43 GMT', 'Server': 'Apache', 'X-Frame-Options': 'SAMEORIGIN', 'Referrer-Policy': 'same-origin', 'Content-Security-Policy': "default-src 'self'; style-src crl.pkioverheid.nl; img-src crl.pkioverheid.nl; frame-src 'self'; frame-ancestors 'self'", 'Content-Length': '278', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}

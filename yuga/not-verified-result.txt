@@ -1,0 +1,6 @@
+https://www2.research.att.com/robots.txt?version=poc123
+{'Server': 'AkamaiGHost', 'Mime-Version': '1.0', 'Content-Type': 'text/html', 'Content-Length': '259', 'Expires': 'Tue, 13 Dec 2022 15:54:07 GMT', 'Date': 'Tue, 13 Dec 2022 15:54:07 GMT', 'Connection': 'close'}
+https://cdn-cybersecurity.att.com/robots.txt?version=poc123
+{'Content-Type': 'application/xml', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive', 'Date': 'Tue, 13 Dec 2022 15:56:24 GMT', 'Server': 'AmazonS3', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 ff28c096d027c983cb30a1fcf83ea578.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM78-P5', 'X-Amz-Cf-Id': 'g4P09QR4m057jci2LF9tJmMAbOM3E-7w_qyJMXkeMG-DoxNU2gioUA=='}
+https://signin-static-js.att.com/robots.txt?version=poc123
+{'content-encoding': 'gzip', 'content-type': 'text/plain; charset=UTF-8', 'date': 'Tue, 13 Dec 2022 15:57:36 GMT', 'p3p': 'CP="NON CUR OTPi OUR NOR UNI"', 'transfer-encoding': 'chunked', 'x-frame-options': 'SAMEORIGIN', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'iam_on': 'D509', 'Set-Cookie': 'Kd4zPCrb=A72pNAyFAQAAcoDwZlKuRXUhtKjqlH62oTpPp2Wpp8_pJI3eX0je6fMXIyZuAZCgdaGcuI24wH8AADQwAAAAAA|1|0|be8a61e11129ec3e3ad00aed5e6c3028c80a5652; Max-Age=1577847600; Domain=att.com; Path=/'}

@@ -1,0 +1,130 @@
+https://timeclock.review.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:03 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://2004.review.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:05 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://annotea.review.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:08 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://preview-dev.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:10 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://dev-api.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:15 GMT', 'Connection': 'keep-alive', 'Content-Length': '65', 'Content-Type': 'application/json', 'Via': '1.1 vegur'}
+https://preview.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:18 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://dev.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:34:20 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://timeclock.review.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:33 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://2004.review.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:34 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://annotea.review.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:37 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://preview-dev.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:40 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://dev-api.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:43 GMT', 'Connection': 'keep-alive', 'Content-Length': '65', 'Content-Type': 'application/json', 'Via': '1.1 vegur'}
+https://preview.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:48 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://dev.mybillie.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:37:50 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://jobs.bigcartel.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://ssl-57.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21731'}
+https://ssl-27.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21740'}
+https://ssl-123.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://ssl-102.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-183.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21746'}
+https://ssl-276.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-18.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://ssl-135.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21747'}
+https://ssl-246.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-126.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21739'}
+https://ssl-99.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21735'}
+https://ssl-24.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21725'}
+https://ssl-69.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21742'}
+https://ssl-45.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://ssl-51.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21739'}
+https://ssl-87.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://upload.bigcartel.com/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://ssl-108.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://ssl-42.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21724'}
+https://ssl-120.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21749'}
+https://ssl-159.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21744'}
+https://ssl-111.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21738'}
+https://ssl-90.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21742'}
+https://ssl-66.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21731'}
+https://ssl-114.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21731'}
+https://ssl-21.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://ssl-270.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-60.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21724'}
+https://ssl-213.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://ssl-39.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21744'}
+https://ssl-36.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21739'}
+https://ssl-84.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-72.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://ssl-150.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21733'}
+https://ssl-153.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21730'}
+https://ssl-63.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21725'}
+https://ssl-138.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21723'}
+https://ssl-15.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21724'}
+https://ssl-243.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21730'}
+https://ssl-54.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ssl-33.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ssl-30.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21743'}
+https://ssl-162.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21723'}
+https://ssl-117.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21733'}
+https://ssl-12.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21749'}
+https://ssl-48.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-93.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21730'}
+https://ssl-78.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21746'}
+https://ssl-75.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://ssl-96.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}

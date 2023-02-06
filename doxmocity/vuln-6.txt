@@ -1,0 +1,6 @@
+https://engineering.doximity.com/robots.txt?version=poc123 : 2022-11-15 13:59:01.326622
+https://blog.doximity.com/robots.txt?version=poc123 : 2022-11-15 13:59:16.578075
+https://press.doximity.com/robots.txt?version=poc123 : 2022-11-15 13:59:28.823679
+https://technology.doximity.com/robots.txt?version=poc123 : 2022-11-15 13:59:42.914567
+https://news.doximity.com/robots.txt?version=poc123 : 2022-11-15 13:59:55.788456
+https://wiki.doximity.com/robots.txt?version=poc123 : 2022-11-15 14:00:57.510178

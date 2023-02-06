@@ -1,0 +1,72 @@
+https://mixpanel.org/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:57 GMT'}
+https://api.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:57 GMT'}
+https://api-eu.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:57 GMT'}
+https://data.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:58 GMT'}
+https://data-eu.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:58 GMT'}
+https://api-js.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:58 GMT'}
+https://api-secure.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:59 GMT'}
+https://decide.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:59 GMT'}
+https://mixpanel.atlassian.net/robots.txt?version=poc123
+{'Access-Control-Allowed-Origin': '*', 'Content-Length': '11', 'Content-Type': 'text/plain', 'Date': 'Tue, 13 Dec 2022 15:44:59 GMT', 'Server': 'AtlassianEdge', 'Connection': 'close'}
+https://design.mixpanel.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Tue, 13 Dec 2022 15:44:59 GMT'}
+https://scim.yugalabs.io/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://wireless.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:54:11 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://tech360backup.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:54:27 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://soc.att.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'X-XSS-Protection': '1', 'Connection': 'close', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '869', 'Pragma': 'no-cache', 'Set-Cookie': 'vWFECookie=!UYgyyKRSWaks4RMWQuiSHZoto5DT6Medv4BAxnrAfOrjotHIPeGwh2nzsXCbP1e25dY3C6tn9PQreg==; path=/; Httponly; Secure'}
+https://synaptic.att.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Tue, 13 Dec 2022 15:54:40 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://telephones.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:54:50 GMT', 'Server': 'Apache', 'X-XSS-Protection': '1; mode=block', 'X-Content-Type-Options': 'nosniff', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'Referrer-Policy': 'strict-origin-when-cross-origin', 'X-Frame-Options': 'SAMEORIGIN', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'visid_incap_2852250=xBjhJVwxR2i+BH2jn/5D70qgmGMAAAAAQUIPAAAAAABcVO0AHXEZ4Dmt3VOcRjnx; expires=Wed, 13 Dec 2023 15:26:59 GMT; HttpOnly; path=/; Domain=.att.com; Secure; SameSite=None, incap_ses_1523_2852250=9UifZ+6GPnpEEEkDucgiFUqgmGMAAAAAUmrcucHBbqCS6JmBFmYmlQ==; path=/; Domain=.att.com; Secure; SameSite=None', 'X-CDN': 'Imperva', 'Content-Encoding': 'gzip', 'Transfer-Encoding': 'chunked', 'X-Iinfo': '13-525589504-525589515 NNYN CT(243 241 0) RT(1670946890053 88) q(0 0 5 -1) r(7 7) U11'}
+https://buyasession.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:54:56 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'ServerID=1165205904.64288.0000; path=/; Httponly; Secure'}
+https://screenready.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:55:13 GMT', 'Content-Type': 'text/html; charset=us-ascii', 'Content-Length': '339', 'Connection': 'keep-alive', 'Server': 'Microsoft-HTTPAPI/2.0'}
+https://primeaccess.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:55:31 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://websitesmail.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:55:57 GMT', 'Server': 'Apache', 'X-XSS-Protection': '1', 'X-Frame-Options': 'SAMEORIGIN, SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'BIGipServer~C45~C45_PMAIL_80_IPv4_POOL=697513944.20480.0000; path=/; Httponly; Secure'}
+https://clec.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:55:53 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://ebiznet.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:55:55 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://connectmeeting.att.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Server': 'unknown', 'x-powered-by': 'unknown', 'x-generator': 'unknown', 'X-XSS-Protection': '1; mode=block', 'X-Frame-Options': 'sameorigin', 'Connection': 'Keep-Alive', 'Set-Cookie': 'BC_HA_3d8100d20f2392a8_473e3270=20fb41d; Domain=.teleconference.att.com; expires=Tue, 13-Dec-22 16:26:03 GMT; Path=/, vWFECookie=!hcypK+nxhqqjabI0DGxy2v/+En9Edewi9H7fwo2pLYewsQ6JMvyCeELC4djbllTHCUrmaBTewiJFKQ==; path=/; Httponly; Secure', 'Date': 'Tue, 13 Dec 2022 15:56:03 GMT'}
+https://troubleshoot.att.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'X-XSS-Protection': '1', 'Connection': 'close', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '911', 'Pragma': 'no-cache', 'Set-Cookie': 'vWFECookie=!3PAI/JHq+JZXpzY0DGxy2v/+En9EdfvcnZ37wCbaS1RG/bPBNVnTaQQa3ULii+Emkj4jKGknn6bx9Q==; path=/; Httponly; Secure'}
+https://uma.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:15 GMT', 'Content-Length': '226', 'Content-Type': 'text/html; charset=iso-8859-1', 'Server': 'unknown', 'x-powered-by': 'unknown', 'x-generator': 'unknown', 'X-XSS-Protection': '1; mode=block', 'Connection': 'Keep-Alive', 'Set-Cookie': 'BC_HA_da07b77b199f2970_262f233d=305c5b; Domain=.att.com; expires=Tue, 13-Dec-22 16:26:15 GMT; Path=/, vWFECookie=!RBSYlBEauO7oQ9uIAUcFi+/ZuFJdlLNjp3JymO6jxkP5k7tU6XeOdU2eGNVZGBmKjb91SAKnsPkFFA==; path=/; Httponly; Secure'}
+https://iotdevices.att.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Tue, 13 Dec 2022 15:56:17 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://dcp2.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:22 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=63072000; includeSubDomains', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Set-Cookie': 'ServerID=1181983120.64288.0000; path=/; Httponly; Secure'}
+https://um.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:26 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://giving.att.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Tue, 13 Dec 2022 15:56:28 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://digital.att.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Tue, 13 Dec 2022 15:56:32 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://vm.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:35 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://uversecentral1.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:39 GMT', 'Content-Security-Policy': 'frame-ancestors http://*.att.com/ https://*.att.com/ http://*.att.com:*/ https://*.att.com:*/ http://*.bell.ca/ https://*.bell.ca/ http://*.bell.ca:*/ https://*.bell.ca:*/', 'Content-Length': '311', 'Content-Type': 'text/html; charset=iso-8859-1', 'Server': 'unknown', 'x-powered-by': 'unknown', 'x-generator': 'unknown', 'X-XSS-Protection': '1; mode=block', 'Connection': 'Keep-Alive', 'Set-Cookie': 'BC_HA_da07b77b199f2970_27212332=305ced; Domain=.att.com; expires=Tue, 13-Dec-22 16:26:39 GMT; Path=/, vWFECookie=!LQXMeATHuS2zXX6IAUcFi+/ZuFJdlHHQZZ80FoM9VAyFvXuBB6j4B+G1nieejqLf/jvILAdDEztjsQ==; path=/; Httponly; Secure'}
+https://webmeeting.att.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Server': 'unknown', 'x-powered-by': 'unknown', 'x-generator': 'unknown', 'X-XSS-Protection': '1; mode=block', 'X-Frame-Options': 'sameorigin', 'Connection': 'Keep-Alive', 'Set-Cookie': 'BC_HA_ff082c522eb94d89_473e3270=16ea4e7; Domain=.teleconference.att.com; expires=Tue, 13-Dec-22 16:26:44 GMT; Path=/, vWFECookie=!byESXXkPNz43eLU0DGxy2v/+En9EdcjTZ/+079LmpEljQQ5hbfbqO8ndGcj3J9sudtBjRHNIdeigNw==; path=/; Httponly; Secure', 'Date': 'Tue, 13 Dec 2022 15:56:44 GMT'}
+https://uversecentral.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:46 GMT', 'Content-Security-Policy': 'frame-ancestors http://*.att.com/ https://*.att.com/ http://*.att.com:*/ https://*.att.com:*/ http://*.bell.ca/ https://*.bell.ca/ http://*.bell.ca:*/ https://*.bell.ca:*/', 'Content-Length': '310', 'Content-Type': 'text/html; charset=iso-8859-1', 'Server': 'unknown', 'x-powered-by': 'unknown', 'x-generator': 'unknown', 'X-XSS-Protection': '1; mode=block', 'Connection': 'Keep-Alive', 'Set-Cookie': 'BC_HA_09112d4df7ccdce0_272e2333=30e9da; Domain=.att.com; expires=Tue, 13-Dec-22 16:26:46 GMT; Path=/, vWFECookie=!mxf+cr/D+TXcbQ+IAUcFi+/ZuFJdlPhjMVFZlu24ameBHbDXMoyeGwVC/2bipTIPCovrSRkkGOq3Mw==; path=/; Httponly; Secure'}
+https://promotioncard.att.com/robots.txt?version=poc123
+{'Date': 'Tue, 13 Dec 2022 15:56:49 GMT', 'Server': 'Apache', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains', 'X-Frame-Options': 'SAMEORIGIN', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://projectone.att.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Server': 'Microsoft-HTTPAPI/2.0', 'Date': 'Tue, 13 Dec 2022 15:57:41 GMT', 'Connection': 'close', 'Content-Length': '339'}

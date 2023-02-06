@@ -1,0 +1,1296 @@
+https://gov.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '799c28956c180c63ef594a5fa95107a3e5ad7f53ac7d3247492240cb1cf7d045', 'date': 'Mon, 12 Dec 2022 13:56:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fashionweek.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4394e33251a7c9daf17448fe8784964f5289bba254d64e4db82b3c791d5a83fd', 'date': 'Mon, 12 Dec 2022 13:56:51 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-6-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6a51a297938c774c163445f82920833537e19cf718e9f8b7452ba89976dd47ca', 'date': 'Mon, 12 Dec 2022 13:56:52 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://design.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '63470ad21d9440be3392d9f19d167248212325f0c7b13e3cd0606b10e8c64ce4', 'date': 'Mon, 12 Dec 2022 13:56:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cfl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e765fa879e014987e01d76d1312258073bfed6b6e6bb77f2f3bc9e42231cea94', 'date': 'Mon, 12 Dec 2022 13:57:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ijf.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ac1bf8ef7efac233d24e8585a10dbd57ec2bf09be8ac7f327d64a724ab8fc8a9', 'date': 'Mon, 12 Dec 2022 13:57:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://scotus.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '838d9fe2bece7e58473593451f3633f9ba586d765691e5b4b8af33806ab67519', 'date': 'Mon, 12 Dec 2022 13:57:10 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://aboveandbeyond.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd48f4bf65b041cdade4df2416ab6241ff908ab761966373cfcf0bf9147d5cbd1', 'date': 'Mon, 12 Dec 2022 13:57:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-0-4-6.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9f4566dec76692360072f54e0367f85601ccd86e669c59b38552034b7d858dec', 'date': 'Mon, 12 Dec 2022 13:57:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://twemoji.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7547239a45d1e7dafa60ab05de4c7634734d0f8f6b38b262350dc8c34bede1ba', 'date': 'Mon, 12 Dec 2022 13:57:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-43-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9451c9ba5bff9aa23647c4b8f0ce7e3c89059f251853f2c94e82dd5821363bdb', 'date': 'Mon, 12 Dec 2022 13:57:19 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://api2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a87ca1a96f13835ca76c4d9f9daeddce11deb5fe9f57b97ae919f15cb85a2748', 'date': 'Mon, 12 Dec 2022 13:57:20 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://dubainye.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '679d9f34238173318314e63fffa1deb806af3e2b4d900d3c56082838d0708b30', 'date': 'Mon, 12 Dec 2022 13:57:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://awards.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '56cb5a7ea46cd839510bef7ecabfad1b0e233f8c00e635908840f6f954487332', 'date': 'Mon, 12 Dec 2022 13:57:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ac.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd71b28ca3c5bed07f9c0334c9acffb406955d94d129b59f1c0149fe2457b6860', 'date': 'Mon, 12 Dec 2022 13:57:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bet.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a654dcb542cd6c30a462b4a95cf1a02a8914c0a3f39cc782856de281cef9ea65', 'date': 'Mon, 12 Dec 2022 13:57:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-0-4-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '591f005661bbe8fcdb6c80038b0d841f8f31db62a3a0d9ae50d2b9ef94536bdc', 'date': 'Mon, 12 Dec 2022 13:57:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://redbull.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b1fca909e97877a952c1202e996b547abdcc0c78849188c24cae0ecc7eca4dcb', 'date': 'Mon, 12 Dec 2022 13:57:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://horizon-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd6487209f2ecd8910635dcbcc79398236d630bf23890d67f3664517c7df8ce3c', 'date': 'Mon, 12 Dec 2022 13:57:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://laliga.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b458d0db8a8c464b35185604812a5c9c1dfefb9a8f9e11e3717d8ba78f6f2535', 'date': 'Mon, 12 Dec 2022 13:57:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sxsw.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8696be2ef2c5b06221ea42bb5850a9b4e3f2843ebbba35a754b9bb63825bb57b', 'date': 'Mon, 12 Dec 2022 13:57:48 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://dreamleague.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3d9517a7be9b0b27be3d6c2103ed27a2a06b3e4831a2ea9d09ce9a39ade3eb87', 'date': 'Mon, 12 Dec 2022 13:57:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://developer-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '144ef9c588b6e4d8f602f39de16f6beffdef6d690ef729f6dc38ede7e9f422c6', 'date': 'Mon, 12 Dec 2022 13:58:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://overwatchwc.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '201609422956e40c190ecebc6a3553febab0793e1738634a33e77263b46fee17', 'date': 'Mon, 12 Dec 2022 13:58:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://khalid.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e10da09ccff2a61db9e88e2383b97423515794d7ebd078953cee4c77fb21dbf7', 'date': 'Mon, 12 Dec 2022 13:58:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://birdwatch.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ae4b93bb48fa782ce634d34e53b6bb8b4018246d754e33468f7dfe0116840d51', 'date': 'Mon, 12 Dec 2022 13:58:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://lnb.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5b6bb110f2e5ef23708e656c6806fb3150ec47cf0eb5ef1c553c72270ce3e2aa', 'date': 'Mon, 12 Dec 2022 13:58:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://jobs.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd704b51161f27ce0a1a93c1162e46108c19113e56c0a3e13237ea14a8e4de920', 'date': 'Mon, 12 Dec 2022 13:58:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://btsportscore.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '498ec30a2d6a423796454eea10505ff26583ba90f401630ed6d3c2055a1bdda6', 'date': 'Mon, 12 Dec 2022 13:58:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-4-3-39-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '96f9582e214cc5b2fbd200a04c7af361a2a0e29533aad433438f6d501322fc73', 'date': 'Mon, 12 Dec 2022 13:58:14 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://e3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '943d9530f9ea16eb8417445ec8c5f76f9ef15bcab48e2366fd48a4dff9221176', 'date': 'Mon, 12 Dec 2022 13:58:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-0-0-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ef009324383a2674fffdedf30245e0352a115819c7ad2361aaf92eeed3d839e7', 'date': 'Mon, 12 Dec 2022 13:58:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://s.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '630811794d2e6453de59c894121536bfddf83b4710ea34b0fbbb6c330e43aaa9', 'date': 'Mon, 12 Dec 2022 13:58:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://publisher.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7ad63e47d3c5252ca435868656bd54b616ac571110559e9320abedc85a71a14c', 'date': 'Mon, 12 Dec 2022 13:58:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://skynews.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '65524c8c5b26ce0a8a6a0c78bb1c8e05cd77afc0acc129c6b66805a670413cdb', 'date': 'Mon, 12 Dec 2022 13:58:23 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bloombergdaybreak.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2747f665d2ad55dfc3b0f56621e82e909319e0854da2cfa3bd35e368f4b390c8', 'date': 'Mon, 12 Dec 2022 13:58:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-5-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5ea57d355b80904219e461496d84ab1ada3f62bb1b562022399c411567f8de31', 'date': 'Mon, 12 Dec 2022 13:58:33 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://api-0-4-5.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e7b28cd9731ac91556120d3948f5eaddbcca39745391cd3458f564cb6d9730f7', 'date': 'Mon, 12 Dec 2022 13:58:35 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://billboard.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '864bf0800b7fa75ac9e40ca03523be17e4bf41e2304ed08e2303fcf926a33ace', 'date': 'Mon, 12 Dec 2022 13:58:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://concacaf.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '965fe50d2dc3377078bd51fef40f735d5fb1b7e7fa7be5183ec8500480e3d71d', 'date': 'Mon, 12 Dec 2022 13:58:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nationalgeographic.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6e27e10e781905b2cfff3d3249a8f67600c8c017f459cca7d9a2e94715fc140d', 'date': 'Mon, 12 Dec 2022 13:58:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://investor.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5dc6c1d4d7dacf90e7454dd1ab50cd7d729fc4b7abf36ff420ff16137bcb31ce', 'date': 'Mon, 12 Dec 2022 13:58:43 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nabc.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '03376a850dd0bfddc7c56ceec585389edafc8fad6f1d7a12e5e49a2409732eaa', 'date': 'Mon, 12 Dec 2022 13:58:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bloombergtechnology.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9cb8b6ad0357de34e9888a0eb92bbc2e42299b313c4db02596daf63a69896f7b', 'date': 'Mon, 12 Dec 2022 13:58:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://vivelatino.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'cf2c80c4974daa1a8cf77482034580c6d11362e64101e399d034d98950784671', 'date': 'Mon, 12 Dec 2022 13:58:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://atla-stream-data-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '66cf34680190b3152ea9de387f440076cf0ab006f0e19828ae4d3fe202c0aa52', 'date': 'Mon, 12 Dec 2022 13:58:48 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://ads-bidder-api-sandbox.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '562fdda5527933cf9d82e4ec7d36b7fb78b244334513b8ec225985765872b2ed', 'date': 'Mon, 12 Dec 2022 13:58:49 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://download.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6674af06aa896526d0489d002941257309459cb696393e3e826e8c914b413cff', 'date': 'Mon, 12 Dec 2022 13:58:54 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://pgatourlive.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6218dd99033364d2a9fd4c4ccaf5628bc70e65152388e14592f56a9614544e25', 'date': 'Mon, 12 Dec 2022 13:58:56 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://partnerstream2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '78fa91bb218c1534f664a80fe3c3ccf42fae15853492ff889eceb195b401a25d', 'date': 'Mon, 12 Dec 2022 13:58:56 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ads-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f3aba9b68058b86a181d8200f76b455d634e2afa26b1c16bb4967db2ff10a2d2', 'date': 'Mon, 12 Dec 2022 13:58:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://help-internal.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '49690dafac15eb79719e50458f80660db13fabfd0bd9acc0c4563a8d623cf0b3', 'date': 'Mon, 12 Dec 2022 13:59:12 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tnf.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '202c61a2027ee7d816165b36e186762e3906425bda470fe0b16775bc13c76c75', 'date': 'Mon, 12 Dec 2022 13:59:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://publish.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '424f74e43115013e01d15ae74ee13964704cbe2801bcd3991f726fb5a7a6599a', 'date': 'Mon, 12 Dec 2022 13:59:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nascar.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5e161dcf96e9acede79412cea576fc83a64eed721f8952552c85f2a06e5cbee5', 'date': 'Mon, 12 Dec 2022 13:59:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://records.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2548bd7a77087ca852ac1ead2ed26863e516ceaacf5e40e7e81aaf012b82f75b', 'date': 'Mon, 12 Dec 2022 13:59:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://legal-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '29aa54290e4b4277927ce8ac672c8dde1f32d648fdd7758b63f63f071ceb8da8', 'date': 'Mon, 12 Dec 2022 13:59:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://people.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'dfa7192f7d3448ad7a14225758c6ad38e152af7c073f9337d100ccc101af77dc', 'date': 'Mon, 12 Dec 2022 13:59:23 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://transparency-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1c41a303710d23ab6d3454ad1384a14276d9471d0fa61dd2a9d6b7eecca8062f', 'date': 'Mon, 12 Dec 2022 13:59:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://blog-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd54bddec726e973663d08015868aa919a85d21452ce4a72581f1c282a65263de', 'date': 'Mon, 12 Dec 2022 13:59:28 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-30-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b716b65cdf71bc5cbcb7799e60308e6cf0eaa0911d9a3385faf6cb237816173a', 'date': 'Mon, 12 Dec 2022 13:59:29 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://tinteractive-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '72c760ce3bbf370f34cb96c3e3c54bcf54c571116d104b0df59f856c9bd1b9a7', 'date': 'Mon, 12 Dec 2022 13:59:37 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cards-frame.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8374ec66643085e2ebc81fd172a51aa97c021b379e70edb001bb523b4319ce54', 'date': 'Mon, 12 Dec 2022 13:59:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-5-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6e7d726b5314025481016b5cc6106761c7dc6a53bb7a3ec61886901c1efeaf68', 'date': 'Mon, 12 Dec 2022 13:59:39 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://ms5.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '167d35953001441d5cab895fd25896b0cabfcfcce3b4dcfeb7d328d1fc7de427', 'date': 'Mon, 12 Dec 2022 13:59:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://imaginedragons.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'da29da032349328a883681b07661b7599979bf01d09d52407a005d7fb12d6ee4', 'date': 'Mon, 12 Dec 2022 13:59:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://atla-partnerstream1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f2a9dfd7515a584f935417e49a1c6d547ba9963a6b9ca0d96c0d678908118eaf', 'date': 'Mon, 12 Dec 2022 13:59:48 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://ufes.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ff26b5e630c339c4805b6fc2453c55c8a62f07c2ee4361abe3f55efd629e0b26', 'date': 'Mon, 12 Dec 2022 13:59:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ms3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8b2360860bf364af26fc5b0a7a24a28b349ffb983e05e2cb98e81903890cece2', 'date': 'Mon, 12 Dec 2022 13:59:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ss.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd11e7dc7e568e78e044e962561861dd20eb24927728eb329bc96a626fa15c09b', 'date': 'Mon, 12 Dec 2022 14:00:02 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '34ed686d79f766b804f89820c18b0cda0dc3b342692a17e033a68f55255da9f1', 'date': 'Mon, 12 Dec 2022 14:00:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://streetgigs.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8572ff734834e69e5c1d7872fcdbbec49e4d0643e5ff3c4312211d106e7f3453', 'date': 'Mon, 12 Dec 2022 14:00:08 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://2012.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'aaa79059c83b3fc3124117c02c3a587f3275f616fbd201037b584e8c0aafa48b', 'date': 'Mon, 12 Dec 2022 14:00:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://frenchelections.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '07388dd4c51e79c76ab97b7677db5133af06ff02aafdc5d61902e8c87d1b8ab9', 'date': 'Mon, 12 Dec 2022 14:00:10 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://askobama.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bb7b4a15a80be71d99f008fd59a58a2c633166a4b03e8bee660763ea4bb30b7f', 'date': 'Mon, 12 Dec 2022 14:00:11 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://samanthabee.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8807af66a94d28dfe544f82bedae263c527cc578fbc2f4b3df83f82ac101c8cb', 'date': 'Mon, 12 Dec 2022 14:00:11 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://marketing-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '474af65a04fa4f4d8ec4e8a1877a37f0671a3b6f3bf1aa9449141d38df5a406e', 'date': 'Mon, 12 Dec 2022 14:00:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://esports.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7c084ee210da04bccc0c88161dc9d035b84f2976586d638b2aaa1dafeba6ed61', 'date': 'Mon, 12 Dec 2022 14:00:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://partners.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b663e925b9b8e01eb6616b4bc155d623c993309e10f1e3f0d10b58e1eb9e6f01', 'date': 'Mon, 12 Dec 2022 14:00:18 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-20-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '00eb53022c6769cc8566c7cd7af4fbca5fb14f13db8253a485ae25f5a6d28a02', 'date': 'Mon, 12 Dec 2022 14:00:19 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://apistatus.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7bdc3305ca4a7fd93acc0ef459498701377d646b7ab1390727c0d7b9dca3b6a6', 'date': 'Mon, 12 Dec 2022 14:00:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://2015.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5dc6f4867b2a1d60b7f775f9b3c2e7180e1d07c9da1e78721d8fa6c15abc6c91', 'date': 'Mon, 12 Dec 2022 14:00:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://safety.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '68b7f232a67e8fb5fa2ca3924cc59b5590d508e7caea0ba85fc38d18d9ba9ca7', 'date': 'Mon, 12 Dec 2022 14:00:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-21-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f7699f472410abcdef2dc299ee950fcfd15bdb315c51d72131625c2a2bb29c7b', 'date': 'Mon, 12 Dec 2022 14:00:26 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://stadium.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '72faf7c36eecb5c8d6733cbf7797add4815123d785cf116018dbf74e8e483b84', 'date': 'Mon, 12 Dec 2022 14:00:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://appleevent.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '70c5dde9586b9e0d9a418163cf9ab178cfb0343303d514b0b1c076587f7c7aea', 'date': 'Mon, 12 Dec 2022 14:00:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://pop-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7e191ee0711d9c680efcf8c4f9dde1cbdad7e1fad203d0bd461bd13efab09c63', 'date': 'Mon, 12 Dec 2022 14:00:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://lite-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'da4eae07f19d5d3c9850181c06163a78fbf610c10baad3a1ae3452ebcf1c6b7e', 'date': 'Mon, 12 Dec 2022 14:00:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4a53911b15f29e77a736cd31dcdfae24166c0614a3b35d91f52074e99ff9c3ca', 'date': 'Mon, 12 Dec 2022 14:00:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tweetdeck.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '50885a8cb5699adc0b390197fd19c9ec574e5acca553eb469cac26f93da3ead3', 'date': 'Mon, 12 Dec 2022 14:00:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://dashboard.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e914e9e3c22e964d2c6802b1bbb92ce616b1258cf175a1f875c8cbc1733c1576', 'date': 'Mon, 12 Dec 2022 14:00:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://deadlineday.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2d0db0f00891713baced9921d7e80b1a4f8b70b081a6f08f837e8d52745c4566', 'date': 'Mon, 12 Dec 2022 14:00:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://forzarc.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd82e7227090e212ed2146babefb27bc535ec18ca2fe8e0ab2e24537bd4a8842f', 'date': 'Mon, 12 Dec 2022 14:01:00 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sin-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0a5bd79d7dc29f6a8cf1c25d72dee9f84f418882daa66d6801f118b627f56a41', 'date': 'Mon, 12 Dec 2022 14:01:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://analyticsbeta.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd64f9d8c645f26e5f12ed6fab985a9d779a67e5770e2bc1c47a5fb732089516d', 'date': 'Mon, 12 Dec 2022 14:01:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-33-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a89c8f41f44010cad5b5aa627c8a1177473fccd54d01f4c82999cdd6831840fb', 'date': 'Mon, 12 Dec 2022 14:01:04 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://api-0-4-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '146ccbd055296380453b007d398a4a0346504a6a799de1a4d0417051416f7365', 'date': 'Mon, 12 Dec 2022 14:01:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cards.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bb3d6013a675d9f6de164685ce81f2b48e14ede04347ecf9d878f99adbda11ba', 'date': 'Mon, 12 Dec 2022 14:01:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-0-5-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8a5a9b47145ff26d41b36b1d125dffc7f7e2098fd4ae537d17f8ec44f62d671c', 'date': 'Mon, 12 Dec 2022 14:01:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://pbs.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f75e8604e43546905e1d1870b65dc21c10ee3d398b10ee1776db8c0b0975f314', 'date': 'Mon, 12 Dec 2022 14:01:10 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-42-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'db8741da6830758d06259ff9bfe01dfd6720bdb084aba2b74fe1eb8d1d615499', 'date': 'Mon, 12 Dec 2022 14:01:12 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://fox.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '39d2387640ed2a7cea05e2e883237e810b08eb757dfaed61e70c7d944b3d87dc', 'date': 'Mon, 12 Dec 2022 14:01:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://partners-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f2d564986e5b9d689650d1f4320a57811a84d48b3a1cb2bb23410a6d82e6d650', 'date': 'Mon, 12 Dec 2022 14:01:20 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-38-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '65e457e9d44534566a4df48d26edfb377b509bca461a1df848241031c0498a22', 'date': 'Mon, 12 Dec 2022 14:01:21 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://api-39-4-3-39-4-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b676f43aac614906dc145f83309c9006d1e903627f3de9fde94395cb383b675b', 'date': 'Mon, 12 Dec 2022 14:01:24 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://mp-internal.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5b66de9ee5e6932dc1255072349838f6e5c2280847d180d7c8e7262d0c774fc5', 'date': 'Mon, 12 Dec 2022 14:01:25 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://train.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3085203c5742047ae46a8ca134eb7d904c961cd95b445ba92819b4ee40ee4a44', 'date': 'Mon, 12 Dec 2022 14:01:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mail.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4556d7ddee45e944ee3e45351470a4e26745601f6f9f913e6c19ef6a474dd0fa', 'date': 'Mon, 12 Dec 2022 14:01:30 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://empire.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0a9eb34a063390f4773631d8c552b4cffc089f4ffa0cde7170190896d9d8e46f', 'date': 'Mon, 12 Dec 2022 14:01:30 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-6-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5396f32945bc74cb8eff37b5c5ed8161af381bb2aa3f47d262bd8886f9417a4a', 'date': 'Mon, 12 Dec 2022 14:01:33 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://tv-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2b6ea5a865aa9bd809b6f18e4a03a033ceccbf3edddfe903eae0f8385760907e', 'date': 'Mon, 12 Dec 2022 14:01:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sao-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '312632174c6818ffbfba0116af1962f3ee7d6e6ac48b161304d1db82c97019a9', 'date': 'Mon, 12 Dec 2022 14:01:42 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://ittr-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0d0c5152cb7c9ec142230fdc3ffa17920221da357691cbad63f0a9f916664b97', 'date': 'Mon, 12 Dec 2022 14:01:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://faith.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '67d8f7243a3fc3efde5bae0dfa62193847656ca1e121d0e6474ac0ccef30744a', 'date': 'Mon, 12 Dec 2022 14:01:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bbcelection.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a9998484764b4d1b2b5ff5b5996475c87050c68c772a0a0b63a37940f5235065', 'date': 'Mon, 12 Dec 2022 14:01:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-3-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8cdf50a04c300766b2284202c4cbc418d87e5357046dd71fc14c4d6b1a4ca2f8', 'date': 'Mon, 12 Dec 2022 14:01:52 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://eleague.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1a23cd6c6f68a7e884211ae0b582c75849f3e575011c1beafa0a49a353308701', 'date': 'Mon, 12 Dec 2022 14:01:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cortex.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2d87cf3b683fd95d41d41553697ff586f8ae65afd7bab0c2c919b92042ade78e', 'date': 'Mon, 12 Dec 2022 14:01:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://solareclipse.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1c0fbb1db0d3cc68a3d44c6e02198746694587eabeb83173f7a4cec03d8a44bc', 'date': 'Mon, 12 Dec 2022 14:02:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bravotv.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '95be14ad5b82e2bdfe6141f8d76a3e268cea54eee0b9cd0fb2f659046671dd4a', 'date': 'Mon, 12 Dec 2022 14:02:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://essence.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'fb533257f1f4b5a1375149442231cab18beed2b24c72b7e3deddf99fc0a9890d', 'date': 'Mon, 12 Dec 2022 14:02:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-45-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b3f54893e38b5f73647b258e51a1f2dab339a5e0d6095caa42b3576f102b2124', 'date': 'Mon, 12 Dec 2022 14:02:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fly.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '133c6c3e0c1668877b6905145f5e5a9c7b20be8697cae078b5faa1d0c756aa16', 'date': 'Mon, 12 Dec 2022 14:02:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://lol.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8dde586a283c5e96f1005e7d6cd9ce3e3f700812f4b109cf8d9dd18c641f9326', 'date': 'Mon, 12 Dec 2022 14:02:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://stanford.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b0b9526415bd9eca2c47671ee8d7c62ef4a092b616ea0dc92abfa3ce98df0be9', 'date': 'Mon, 12 Dec 2022 14:02:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://showtime.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3f181b836c55612968b95d66bec38fe585c87d8d8eed9d94cfe6578ec2c5edfc', 'date': 'Mon, 12 Dec 2022 14:02:07 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-o.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e1c1f5e0836d7575f96080559f79402e6c1178c8bfb256226cfae58ab08f53da', 'date': 'Mon, 12 Dec 2022 14:02:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://privacy-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0ee50ff57d58229114314fb2d5fec9a50272c27479411e64f7876a5367d22cf4', 'date': 'Mon, 12 Dec 2022 14:02:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://rainbow6.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1c31192109656d8e670a3b39ce02f82bbf23346f569a7d131a588a5075ccc873', 'date': 'Mon, 12 Dec 2022 14:02:23 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-35-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ef9b27a563a72dd614b0456e3c8517ff62bb154c93927db5fd9993762ec8a207', 'date': 'Mon, 12 Dec 2022 14:02:28 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://research.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'dd8489e5c9e9a920375f78844f890f59ac63cb88b133c1daa75ae40476d37ce2', 'date': 'Mon, 12 Dec 2022 14:02:30 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://partner-stream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '68d86e387ee98fbb76d29bb18e64070e9998e2202bb3366a230754bc7b682fe3', 'date': 'Mon, 12 Dec 2022 14:02:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://measure2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7c313656fbf77bc2403689e121ae7d903739aaf9e5a542e2318bb723f5439170', 'date': 'Mon, 12 Dec 2022 14:02:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://thegameawards.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd09bd8398589940c0288378e7b284e1802d7868a135cf912373992d885a6f508', 'date': 'Mon, 12 Dec 2022 14:02:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://2013.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '501ea286a0a459b1d65724b6682b5513b2aec57e0929ad50a629d094d2a7afa6', 'date': 'Mon, 12 Dec 2022 14:02:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nfl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '03df64ed1d4957d94997de5b4303f11161165dc02f6d66e306b2820d981cd4b2', 'date': 'Mon, 12 Dec 2022 14:02:49 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nhl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '37cc4c518ea5dc4f495854afcbb54f39afbd5f3532fbc2ce23d9d24cab910e80', 'date': 'Mon, 12 Dec 2022 14:02:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://glaad.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3c0f8343f0ae15c21e0624fe6aa7808911a31d0a5d08492961da28a30b77b895', 'date': 'Mon, 12 Dec 2022 14:02:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://marketing.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0dd217576211fe1f6cf6b03914499071ce8ed861b6a422e6263df2001355655e', 'date': 'Mon, 12 Dec 2022 14:02:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-36-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '76a2fba550bc9198b3a2b6b5c32cbf097ff7141ddf62dd6bc0f4bfccb6c9d63f', 'date': 'Mon, 12 Dec 2022 14:02:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://2011.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'db3e298c12541b1b7174e75d05e886099dc0c751fbf44f7a148448b6324222bc', 'date': 'Mon, 12 Dec 2022 14:03:00 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fashionweekmi.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0ef0574111a4070f64f22c02cd0eed3f550225eb824c86d27f713f3bb7b89c25', 'date': 'Mon, 12 Dec 2022 14:03:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mit-election.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '117a01fa8656eca0bb0c831f2d31734610fc30471d7601d7ddc621eead87802c', 'date': 'Mon, 12 Dec 2022 14:03:08 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://hope140.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '634ce18a0db86574d5c4657d63c1482e4fee101b34589e0a30d6141622d1881d', 'date': 'Mon, 12 Dec 2022 14:03:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-0-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '79fdf603fd8a0c8994a84da0a5f8bf8786ea2d55ac63e532bc0efa15d4dc12d9', 'date': 'Mon, 12 Dec 2022 14:03:12 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://api-32-0-0-32-6-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b1f3132fcbc5d010d4dde6d767ae737e77c343d5961ef4cda9d98b536816259e', 'date': 'Mon, 12 Dec 2022 14:03:13 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://create.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c2a157c7dc3752d41e4f1103894e6fc050b0e60aab5e510bb1409e98c5a6a87b', 'date': 'Mon, 12 Dec 2022 14:03:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://6nations.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0350618cd0a8cd60308a8ef1189d942c6388a7995eafe27663204d36df4cfc96', 'date': 'Mon, 12 Dec 2022 14:03:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://advertising.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '30f9258bc6932135a88eb3b5147dc5daf0ffbbab0f57c934130bb93c767ac863', 'date': 'Mon, 12 Dec 2022 14:03:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://marketing-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '70461cc7d823b37ccfabfb03a4aef72da48a05296e66b7b0e157eaf399b25ba2', 'date': 'Mon, 12 Dec 2022 14:03:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sms.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c7af8822fa4ad60bc217324e10058ff5140def23feaad49644902f2d0aae9cff', 'date': 'Mon, 12 Dec 2022 14:03:37 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://election.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0fd87653f006b5f82c4820ac53899d344b38931e62d24233f5a38a13710a3b42', 'date': 'Mon, 12 Dec 2022 14:03:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-0-4-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1e834dda3c17562ae122f12bb13b62b503a2db8c40db0f5c7a8681aea4dc056d', 'date': 'Mon, 12 Dec 2022 14:03:42 GMT', 'server': 'tsa_l', 'connection': 'close'}
+https://melbournecup.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '90abcae470b66785b80a306ab08b4b42202dd4901ff91c5b4ccb2a416bf02a91', 'date': 'Mon, 12 Dec 2022 14:03:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tnt.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '052e99262c0b666d51c2a7c19a1b24dcdd91375cca97429e9a971882251c3bbd', 'date': 'Mon, 12 Dec 2022 14:03:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://groups.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '293a478b899c736e0bf851cbb0ddfb9760911570f62e78bdf3d8c89a2b889874', 'date': 'Mon, 12 Dec 2022 14:03:48 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://portugaltheman.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7e3ac7fd923d28dcf67cb76c7b11c71a636285ffd2d4d8bcdf804b65500943a4', 'date': 'Mon, 12 Dec 2022 14:03:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://data-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5f534d82d72db947c69f8cf8bc21b40f41e9cc3b195360867f9459a97eeadac2', 'date': 'Mon, 12 Dec 2022 14:04:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://uclfinal.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a1b43100c1606fcbcc04cd08c9c1fa3f9ccbc67a23423911f0d1914ca9034b8b', 'date': 'Mon, 12 Dec 2022 14:04:08 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://comicon.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '83e2348bf071d0d6db41c03f37a4d1ce9eebca340c1a8730efe290a2406ea152', 'date': 'Mon, 12 Dec 2022 14:04:12 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mua-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '26e2e96c17cdce26e1a3942908b906b97b4795cf39e3dae2e7182cded17828cf', 'date': 'Mon, 12 Dec 2022 14:04:24 GMT', 'server': 't3_mua2', 'connection': 'close'}
+https://sa.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7ce0d160654a72af4ff04d60c9c3e825e0dbdc69f50c3c479c6d31c3b14307ca', 'date': 'Mon, 12 Dec 2022 14:04:26 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://data-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7099161d14de17a6ffd6416bf504595ad9ecbd9cdcd6498d503d2d8c5383ac53', 'date': 'Mon, 12 Dec 2022 14:04:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://anywhere.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '24604ea5601c2ab9a0aa416eecc55350d56743122957ddfa23b70e6fa31cca91', 'date': 'Mon, 12 Dec 2022 14:04:28 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mls.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '63df775cbf55df52c3897c921e2db74d1aed170b4defc3b2b8111fe313e5df27', 'date': 'Mon, 12 Dec 2022 14:04:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://debates.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c38e403e15f2cb22e6ab102ed345e7b715dd48c0084fc6e71d6e83a63fb767b4', 'date': 'Mon, 12 Dec 2022 14:04:32 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://gtcp3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '58ec30dadd65b50fe9d99b55140e959e05e27516748a942fa8fbac15a94c3e05', 'date': 'Mon, 12 Dec 2022 14:04:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://moments.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '77f5f1f58b9f4bb92a7d3892a7399d13b3fa9716da56fb5363e440ce3364e810', 'date': 'Mon, 12 Dec 2022 14:04:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://marchmadness.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2e79d839ea7223a903e5d5a1d4dc5b42fc394c7b41ca633ac43da8d97ce01ec1', 'date': 'Mon, 12 Dec 2022 14:04:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ads-bidder-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9ec38a1b6a000dea3c1d4e3398e621c49c2e9ec05f566006a4d14d834613f988', 'date': 'Mon, 12 Dec 2022 14:04:39 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ukelection.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2e3d072bfc6999f80104e88743e96b2627c6f0886cf02f56ab4423fedfa9cff3', 'date': 'Mon, 12 Dec 2022 14:04:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://monsterstrike.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b85eefb53d78e515c2e67f35bae6bfcde6c84d58887d34046867f77bfa629fd4', 'date': 'Mon, 12 Dec 2022 14:04:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fonts.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bb8815662d168ea0c42a16f4114be1333be99ba0e78009abb1a78495ab51fb12', 'date': 'Mon, 12 Dec 2022 14:04:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://oscars.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '66db928264100ffe11d199e03e2b5c3defa5a12e7e9f59f7df8194d42be96b8b', 'date': 'Mon, 12 Dec 2022 14:04:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cdn.syndication.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '583ff157b91136407c46c4b71de93e813ad62b6cfe375c084194a23b3726cbfb', 'date': 'Mon, 12 Dec 2022 14:04:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://analytics.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '51bf949e5d105a6ae58f81fcf3114f77c089d7fab92605092004cc7a0c900d3c', 'date': 'Mon, 12 Dec 2022 14:04:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://inauguration.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '60aa5fb732ee0c663856b5730c992afe472db1ff9a02a095ecc9246e397f90ca', 'date': 'Mon, 12 Dec 2022 14:04:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://preferencecenter.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'efe40901889449c7ce895b922475ebcdcc1359bfd83701f3463ade849cd48317', 'date': 'Mon, 12 Dec 2022 14:04:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://apps.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '70bade2a4980f9bdbeb1473e7cd8e73b58a5eaf92ddfb2a5269fc26a2d07b932', 'date': 'Mon, 12 Dec 2022 14:05:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://xbox.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9754c0e6f2759793e0b6ac55b99de6fc5937f5d23d6643862790824fd086e370', 'date': 'Mon, 12 Dec 2022 14:05:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-34-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'cfc91cca717af5e076d32044c8cf2825eff8581cebf6f83599650510753235e9', 'date': 'Mon, 12 Dec 2022 14:05:05 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://discover.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1769664ad4cb46fcc5ca896a29fc7cac5b8af97a6f0f773cd3c43e2980f4d0ba', 'date': 'Mon, 12 Dec 2022 14:05:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ads.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '417a957ceaec25ad786a2a25f2805b0b7b9e32d7f1b729607fb4fa1100d48354', 'date': 'Mon, 12 Dec 2022 14:05:08 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://myprivacy.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '115cc951326b19bba824c78de3e76aeba228d7319127a1ccac61363dcc6ba8a2', 'date': 'Mon, 12 Dec 2022 14:05:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mmafighting.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e795e0091348ab7d6c0ab320e0b24808f06ff400b2e7f90c5becd43f25248652', 'date': 'Mon, 12 Dec 2022 14:05:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://assets3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '98c4f83bcf38db9bed9e25024715890083dd06ffcb058da4e33caacc6b18dd7a', 'date': 'Mon, 12 Dec 2022 14:05:10 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tales.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '28bc4fc972d02eb891c61e1f2ddf2c1791dd4202a65a7eee56ad46f017e7c984', 'date': 'Mon, 12 Dec 2022 14:05:11 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://horizon-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '39a02244890b7a6d8aad6f5d7415000598f21d1f03bfeb29501dee0451dc03b4', 'date': 'Mon, 12 Dec 2022 14:05:12 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'eadf642fde66621cb1ef1c7fa08da223f57ab787d00acc1752b67d50094c7ef2', 'date': 'Mon, 12 Dec 2022 14:05:14 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://pic.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5b1be5d47d52b9dbc1b986a1bc878c4a2381263f36376681486d8b0c16f7371e', 'date': 'Mon, 12 Dec 2022 14:05:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://facebook.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3c40353068e36106dae5455fe469638fd1d22c3c3d28f7d079e618723856f41b', 'date': 'Mon, 12 Dec 2022 14:05:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ces.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '43c06906b3b3142d35a6229d32c65c3285d61463eb4ab27a99a3f99b9a39228d', 'date': 'Mon, 12 Dec 2022 14:05:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://futbol.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '41dbbb2ec1c4120b58e9a13e058bcacb2e06a96d6c48af38a457de615110fc72', 'date': 'Mon, 12 Dec 2022 14:05:23 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://legal.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '94a56b0898f73596819808ace45d54c3847ad2736a5bd1e5658000e0c4f7202d', 'date': 'Mon, 12 Dec 2022 14:05:28 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-41-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0e19029a75289158df1526ff63be33b93007d5ad335b902bff5f793621f750e5', 'date': 'Mon, 12 Dec 2022 14:05:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bestoftweets.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f66fc91ad53c3e97cbc3122a7594ebc67b3bc6dc83c0af9f21cf60d0faa58a81', 'date': 'Mon, 12 Dec 2022 14:05:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://imdb.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e0290dbdaa2018e08a32b22b0bf766d40a76597519ae08af3707b915b0eb6ec9', 'date': 'Mon, 12 Dec 2022 14:05:34 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://static.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'cebaf8a89bff9e96a08f75f52d461c741918cc78228dec79f43c07403c8797a5', 'date': 'Mon, 12 Dec 2022 14:05:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://lon-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '059b09a2eb370938607ec329d097354c9c818eaed152249ce4ffb2e30578fb35', 'date': 'Mon, 12 Dec 2022 14:05:39 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://charlottesville.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3172cec2757c550ac43312eeb29361d565b979a313135a9ebef45dcb6f69becc', 'date': 'Mon, 12 Dec 2022 14:05:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://media-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '46a137162174dcc82b882024cd230f890f140aefb4db40ce1f5a2422c40c06f6', 'date': 'Mon, 12 Dec 2022 14:05:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-0-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ada38431c981c7c8156798c367934bf66a0a608ce0e03b66f1230568e4c783c1', 'date': 'Mon, 12 Dec 2022 14:05:43 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://jointsession.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a67ad7ca9af17d9d3c2a162bf9a5068679467945a3e1e7fc4be570e3c0274100', 'date': 'Mon, 12 Dec 2022 14:05:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-c.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6b40cc6cb16d87810cc35070b897bb3e069de2f1fa48a76e079cf385e06d0d89', 'date': 'Mon, 12 Dec 2022 14:05:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://apiwiki.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ab436624d18f6c31339ac2d3cb7f1f931d31561c6e215033e9a828a3a37600a3', 'date': 'Mon, 12 Dec 2022 14:05:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://pulse.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7a5156138187c139371f54d97c847be87faf7bdf847a41c8c38ba7ffa61790f5', 'date': 'Mon, 12 Dec 2022 14:05:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://concon-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'fae8278112c01d6eb7254a81c5942302a1fd435789d097d8b9793bb9d809940a', 'date': 'Mon, 12 Dec 2022 14:05:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://dreamforce.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7a2adcfdb684520d6bdb6ded6cb520d63b96583481ebd1c42dcc0abf06f2c67c', 'date': 'Mon, 12 Dec 2022 14:06:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://showtimeboxing.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'feb6656400216a51636e9f78f292f036e84e8b75fe7846c52961ce71b4cb6cd4', 'date': 'Mon, 12 Dec 2022 14:06:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://measure3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7253c75d10ada5abc3b39d2d9b78728cb8d809035ad8dd13ba016dfa29f1a9eb', 'date': 'Mon, 12 Dec 2022 14:06:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://rogueone.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bf46503093aed10f81a60cb41d4785779b103905f7a9f28c1cbecadd6791ad77', 'date': 'Mon, 12 Dec 2022 14:06:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://zacbrown.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '38dc90540b9f1c8c0360e0075cbf550840bb4ae2046b827452302486b76cfc8b', 'date': 'Mon, 12 Dec 2022 14:06:08 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://business.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9ce8ca98f6fd68ba6f66af154b068c8b288e2c182c6eb8e5db4e49445e9923d4', 'date': 'Mon, 12 Dec 2022 14:06:12 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://breaking2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ea0c48dccf2c1a0e2f8f37be8f363fd32da515268d2a46368a9594e375519084', 'date': 'Mon, 12 Dec 2022 14:06:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://caps-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c0f0f48633441105d3f8bdebf83ca0b9c6394305d741fa36901dce13c4279929', 'date': 'Mon, 12 Dec 2022 14:06:18 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://data.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f0910118a733b638cf458d13bdc609249316537f6f4b011a13cf4eba0f2c9706', 'date': 'Mon, 12 Dec 2022 14:06:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://dasient.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5bca1de7f39fbd5b0e88049857367901260fa0e869235d38b1fb37f2bb6ae75a', 'date': 'Mon, 12 Dec 2022 14:06:28 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tpop-api-c.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'cf576ea70a4796825fbb4999e0c22a8c1820ba9aad58a245811673201b0b038b', 'date': 'Mon, 12 Dec 2022 14:06:29 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://discovery.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '83e81359f29d927a9f61ebe005ae0ba70b7a37ccb5eff35fa60dacc3d34e4171', 'date': 'Mon, 12 Dec 2022 14:06:29 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://reverb.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '00bb2a2ffb7eec5670da82ec9c13a362abea140ebfb038a671d261bbe8a16000', 'date': 'Mon, 12 Dec 2022 14:06:35 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://2010.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5ed46fa83d774009899a0befbd08f442e2a7e3912fccb4de56a5be8c399f6103', 'date': 'Mon, 12 Dec 2022 14:06:36 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cheddar.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7ee7ce78ade4b600d626dccf14b429ddfeea5a7d0c8f5c3dc46f1eac9b065ed8', 'date': 'Mon, 12 Dec 2022 14:06:37 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sms-be.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd87e72e1776f3b250b7474903429b7c5bf5773d39f0d315a7e0d95b6d516595c', 'date': 'Mon, 12 Dec 2022 14:06:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fra-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f9cc90a56718248e6ec42c06f87232b2c2bfaddcffd33153b5bd595bc93f0a31', 'date': 'Mon, 12 Dec 2022 14:06:40 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://forza.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2221b4b34298e6248a36d675ca38e7e2a8481585abf7d7f4732a04f57e809671', 'date': 'Mon, 12 Dec 2022 14:06:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bloomberg.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f8060cf010aa87b6ac1e3830f17026bf6fa8c6b05fd4c5002c00e980e7c36095', 'date': 'Mon, 12 Dec 2022 14:06:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://michaelkors.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4ff0badb96a4919b75cb428cc43857aa872a7fc36661801dd12e7d2768fd02ac', 'date': 'Mon, 12 Dec 2022 14:06:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://circuitbreaker.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3c474697d2c752a9f5e36f7f5fea5663b717523ff6f230676feeff9c227bdd41', 'date': 'Mon, 12 Dec 2022 14:06:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-0-4-7.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5218fde0b928f288b3435898a72c6fb881e81d60e475bc7070218e1ae5a4c519', 'date': 'Mon, 12 Dec 2022 14:06:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://arthouse.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a64e5e9ba5785d138ac51e84d6d6f50cbb46ff0aae91ad97580f94cb755a97cf', 'date': 'Mon, 12 Dec 2022 14:06:51 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-6-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'defd53187b6354c5887833916ec75b488275926c36e0f2ddd64e27ab19534466', 'date': 'Mon, 12 Dec 2022 14:06:53 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://cards-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1800bd453c2961d38d632d4d73ad69af717ecefe86630238a612f867e33b3a80', 'date': 'Mon, 12 Dec 2022 14:06:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sitestream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f5dc296f4c1f4dcfd01f1e5ae4122380624532adc273699c7de2834dfbf97adb', 'date': 'Mon, 12 Dec 2022 14:06:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-c.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '740329a9bc787fd9fa903d3abadf368cf4ed25c74fd46e5b28ffae329be39f85', 'date': 'Mon, 12 Dec 2022 14:06:56 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://aa.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c2bdaa4898f459529c9d8c8e074cb8445538a1bf0f065af33c682bc73c273df7', 'date': 'Mon, 12 Dec 2022 14:07:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4f7c200f4df7fc6afb3b66aa6ada191acf532ed5d207509500a6e399f00be484', 'date': 'Mon, 12 Dec 2022 14:07:03 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://calendar.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0716428db4137d6850628b08544f49347d7bca824f8c2d5abee39d8ff457f94b', 'date': 'Mon, 12 Dec 2022 14:07:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://happening-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9604f1689d564d6d5d7bb76895f77ee57cbfbd310740e5d970973859c5bf5c62', 'date': 'Mon, 12 Dec 2022 14:07:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f768447645bf1bcdbffb74d7b2eb5f8ccfa5aec5626792f6397662f385b01f8b', 'date': 'Mon, 12 Dec 2022 14:07:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://globalcitizenfestival.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e2bd4171e31f3dfadf27b7e62a092ecf24352cca344e8355d9ee1e4d5e1c2c53', 'date': 'Mon, 12 Dec 2022 14:07:10 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-31-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '49e3bfcd8fb96f3bf7d02cf1bd9fb1eaa0d9ad1cbff0c6d0f436af127c6240d4', 'date': 'Mon, 12 Dec 2022 14:07:11 GMT', 'server': 'tsa_m', 'connection': 'close'}
+https://bullriding.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '88d476c25d29c3e4d090a5c6510ade36bd0bd435515e451c5c54d6e963905544', 'date': 'Mon, 12 Dec 2022 14:07:12 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://smf-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4091553ac2dbd7f3d1244546d3fe7a38988ef30b4d0bbc79386a5e961605422c', 'date': 'Mon, 12 Dec 2022 14:07:16 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://legalrequests.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '42495146ed96b265047219549b516cba60930103123cb6d16c3a1d27a1feb896', 'date': 'Mon, 12 Dec 2022 14:07:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://diversity.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '089e8ee4915d5683e8916aecba73b46c15390d43b479832c727ab8a1b29ae750', 'date': 'Mon, 12 Dec 2022 14:07:18 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://assets0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f21bcb7a7ecd23d9d17545d1e5432346e0569af7e1d14736b9b3e658bfc7face', 'date': 'Mon, 12 Dec 2022 14:07:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nwhl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2736667d50aa8c9ea8f6755be467e22679a5e58e5f40752af3ae25b30421b20c', 'date': 'Mon, 12 Dec 2022 14:07:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://soccer.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c4c1b3b92c1d7e4caeace56342f545011a088bcdcaaeb928c0e7c74319e81093', 'date': 'Mon, 12 Dec 2022 14:07:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://platform.twitter.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 14:07:29 GMT', 'Server': 'ECSF (nag/999C)'}
+https://donate.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '74a830d5531d1d86b3199e2d03e97adae064c8be764f8681b634b6009a68bda5', 'date': 'Mon, 12 Dec 2022 14:07:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://zero.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5e6dd7b0b536c7e25de9be2d6cfeffc9bfd31dc82d165aae6b241d7f6c5c4ff5', 'date': 'Mon, 12 Dec 2022 14:07:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://scribe.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c2174b5ec637a79fd6f2402e2bc1e92612abdc53238a862939ec6b4500188b72', 'date': 'Mon, 12 Dec 2022 14:07:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c2b37dd9edb017f9f3dc95545b23012fa3c55a525975c9fd38d6372eff978de6', 'date': 'Mon, 12 Dec 2022 14:07:45 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://ms2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ae89de28a9245c4b644fa58f32aa93a3c022a07ebf4d7c000aed02338e1a4b52', 'date': 'Mon, 12 Dec 2022 14:07:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ads-beta.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '07e656a26e32a71cbd4bfef40cf9804f98a5f1ed6b0c8a3419e379465ce00788', 'date': 'Mon, 12 Dec 2022 14:07:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://globalcitizen.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2e9b088e807d9719df3628d6125cb0b7c6ec91502378cfe172bfb915505f85b2', 'date': 'Mon, 12 Dec 2022 14:07:48 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://careers.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '69a1aab96f3533674ac1ebed5d8f267aa0b5ac12c3bd20a2c513a978012812ec', 'date': 'Mon, 12 Dec 2022 14:07:49 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://opensource.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4f3c09df90fdc9cb934f96543cb4cee14caefee4716ee292e85f4a486fa6bd05', 'date': 'Mon, 12 Dec 2022 14:07:49 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://kentuckyderby.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9482a2fe54c9cfbf58ac9f5af5bedb8dc306873a21b468f468a2fee57103336f', 'date': 'Mon, 12 Dec 2022 14:07:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://creative.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b5618bfd6f4aeb4854aa1dab0b49a1a5681f116bde2cc98da10b6db0a76e14ed', 'date': 'Mon, 12 Dec 2022 14:07:51 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-2-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ae7f252fd6a04ee89710b1150deb0b2e51b01d743fef9bd945b71c79ff2288be', 'date': 'Mon, 12 Dec 2022 14:07:53 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://takeflight-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '68494996f813516a5e7d9363c0b08dae5e6d05ee5589de2a2c974e3f18dcae31', 'date': 'Mon, 12 Dec 2022 14:07:58 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tdweb.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ce025f15c37b858ce4fc17020f1f338285d23f9841761d0049bc69875d2fb51c', 'date': 'Mon, 12 Dec 2022 14:07:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bbmas.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b95f2647849fb209c3587be9b858ad013509a0e65ca9989a1403dedffb388e28', 'date': 'Mon, 12 Dec 2022 14:08:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://stream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5123579223f877e9ba188840964e630992ec33282c494b66dc808a543bf2fb6e', 'date': 'Mon, 12 Dec 2022 14:08:13 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://media.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '31d9367be099065cd25aa123dd44942bb607f31aa0e6e15bca3899f19223bed8', 'date': 'Mon, 12 Dec 2022 14:08:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mlb.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7975e40bdf8ecd615f5cff3c5a8de6c63baca1cc29ca2ebfd4764c53695bfcba', 'date': 'Mon, 12 Dec 2022 14:08:24 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bloombergmarkets.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4cce9ec8f87af137a21c7c235b7255ef2a801accd8079172d39a7d74ae429eaa', 'date': 'Mon, 12 Dec 2022 14:08:24 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-4-2-39-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '069a0f678b14984297f1c5763ae0e1c2dd33d543152fe3316f60d25b3af76f1e', 'date': 'Mon, 12 Dec 2022 14:08:25 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://api-0-4-4.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd8b1001cd4eb49c98f6131ad2484a62fa7b6e0c2b6a331b130a1bc4cabd08fb7', 'date': 'Mon, 12 Dec 2022 14:08:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-6-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f1df0ae79f3fb67d9d4105ae1743c5bda55833516393124a69cefd0cdd43fd1a', 'date': 'Mon, 12 Dec 2022 14:08:29 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://syd-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd9c49ed5175fa9b5383c2836e9bb20db0b032e05e64d659ab95abc25b50cd913', 'date': 'Mon, 12 Dec 2022 14:08:34 GMT', 'server': 'tsa_l', 'connection': 'close'}
+https://support.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ebdcfdc21c9629dd11cf2a6558e65fc73e69aeeaa54e66d4073e5e2dfc657bb3', 'date': 'Mon, 12 Dec 2022 14:08:39 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://brand.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9b75b676d968b6ace7e42933fd3ab6cca1e6d37fb4dce36fac18f51ba3ac3bd4', 'date': 'Mon, 12 Dec 2022 14:08:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://transparency.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '32d11f56485407b36f69154abb9981213850a4d8f8da6f3d311cca2584c76260', 'date': 'Mon, 12 Dec 2022 14:08:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-0-0-39-4-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '18ab34268f5593e8736cce1159c936f554262d4da735cc68c98027c46fb756d4', 'date': 'Mon, 12 Dec 2022 14:08:47 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://ifl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1aa3271e6e17916427c23552a5a17b0999104eccfdf3e9df84d28ec7995a8e48', 'date': 'Mon, 12 Dec 2022 14:08:49 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://search.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a5a486e95f334b3ed2e142db3361869a8d4833443940ecf709afa0f78e71e8a3', 'date': 'Mon, 12 Dec 2022 14:08:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://vice.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c647380db89a6cdb4b75e1aa3ec0f14e802efd85d4f6955deea28c9c83ac77e0', 'date': 'Mon, 12 Dec 2022 14:09:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://userstream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '398c4a489f8ebcde926401984610fef8f0e8b871ac65cd23a28544a4d7ed4ca7', 'date': 'Mon, 12 Dec 2022 14:09:07 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://syndication.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd51815c8dd9e6f37e9891ace36374b00b0fc2366feb095f69bd93d72e1199013', 'date': 'Mon, 12 Dec 2022 14:09:08 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://chirp.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3d265ceedf9e3f9d40201fb70f66e6486a899412f67239a6505e17726d208fd9', 'date': 'Mon, 12 Dec 2022 14:09:13 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://td.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0828fa34375644e58fab950582bc395e63c4892211a300bbd8a7b2e9ee79cd94', 'date': 'Mon, 12 Dec 2022 14:09:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://lite-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'dd5059f64b527ea8c9685329af6aaa19daff0ef34300088a5a6b28ec66ecba54', 'date': 'Mon, 12 Dec 2022 14:09:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://dreamhack.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8f117e3f24f8e4903f61f842a8d282fff3b2825280699f576d9c8b2b194f6d34', 'date': 'Mon, 12 Dec 2022 14:09:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-5-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ece1cfad6f7d86a57934612ebe1df097061e162a288fff00e28f19a9e5a103cd', 'date': 'Mon, 12 Dec 2022 14:09:18 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://hearings.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ce7befaa27e650207cc75b046e9414f817c4625a29465327bb4f902f27192af8', 'date': 'Mon, 12 Dec 2022 14:09:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-0-5-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0702baf80c867d8e7742dc4224607192bee213e00bce65cd62dfe7a63c127a9c', 'date': 'Mon, 12 Dec 2022 14:09:20 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-5-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5370f46ed34356e47d4f81d3685383d9a4f744437a5c06ee82a5c1ba5a6a7aaf', 'date': 'Mon, 12 Dec 2022 14:09:25 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://acmawards.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8327968745de83dfa30027a1f768f1c1e163c9efd9230ac04bd1690460eafa80', 'date': 'Mon, 12 Dec 2022 14:09:30 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://policy.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9ebbb2eadf7154a918857ca62928b7998c7c7c3c185bc065103804c32479d6bd', 'date': 'Mon, 12 Dec 2022 14:09:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://eng.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8302c68d5de48995f730f4075c8e6cabe3a7fa6d058f6d0bde1458a5e60b5f04', 'date': 'Mon, 12 Dec 2022 14:09:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tweet.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '53c871d7b4110eebaed7b9583c7dd01226cae6e6af0eac7abc64ef9eec6fb377', 'date': 'Mon, 12 Dec 2022 14:09:32 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://developer.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bbe8053ca98aff31c820eace74714f838e92d9c389ad21b1736c4ea55ec50129', 'date': 'Mon, 12 Dec 2022 14:09:36 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://zacbrownband.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '904d39c4106248f11327b765f0f72f4861de833271a78db94e0b37932d07a563', 'date': 'Mon, 12 Dec 2022 14:09:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fifthharmony.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '949126f1c74f4e809b3cbd14e64f2c59448285f46fe46116988ff43697d08bfc', 'date': 'Mon, 12 Dec 2022 14:09:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://gdpr.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '63d59602f2f4579535989597151eca2bdb04aaf9457409df5ceb70d3b41d1d75', 'date': 'Mon, 12 Dec 2022 14:09:39 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-4-2-39-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5e23455256cdc73e28ffdfa0816ba3dc09a7f3774990bf114e6970b93baca4ee', 'date': 'Mon, 12 Dec 2022 14:09:44 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://sffilm.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9cb65389753176834ae19956f63f7f1254ecb40425615052ac3f96a48018a575', 'date': 'Mon, 12 Dec 2022 14:09:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tpop-api-o.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '47f172cf2c4695a464bb899c946bc1046e550df2f15965d77e5bb43d08fb1efc', 'date': 'Mon, 12 Dec 2022 14:09:52 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cards-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '81ed1a4f07baa85a4975753d6f4657d2669e7903f8cc44a8ccbc826cad3d13d4', 'date': 'Mon, 12 Dec 2022 14:09:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mp-internal-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2e7636324875e8d35f50b7108efa3b5a25155fe0ec005afa143420b97434a17d', 'date': 'Mon, 12 Dec 2022 14:09:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://wwdc.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b812ea673a948abab8252b6cbf6b4f619421365590c25ebd64418609f7c6dd96', 'date': 'Mon, 12 Dec 2022 14:09:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-25-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '86e61398c8ae6b891534de008a17d305f003c2f843bcadf525df32cae84a0cbc', 'date': 'Mon, 12 Dec 2022 14:09:57 GMT', 'server': 'tsa_p', 'connection': 'close'}
+https://livenation.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'fb6ca60877ef18d2b5d8ce7491787044366925a542a392d4526e64bb6cd73ad7', 'date': 'Mon, 12 Dec 2022 14:09:58 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sdcc.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '20a6fd05705bdf5b1e1f92267b11ed5b20cd045f676c30774f082ba4453f72fe', 'date': 'Mon, 12 Dec 2022 14:09:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://blog-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8b46cd9228db62a6e9048f777e329e5eb055428b19a9c5976e0a9c97a979df0e', 'date': 'Mon, 12 Dec 2022 14:09:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://partners-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4c4e467cafb4da0807cc2e79a5d3304b01ff473cdcdca392207b270c95a67f1b', 'date': 'Mon, 12 Dec 2022 14:10:00 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ms4.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd1fa0850e4a11b9e86d893ed8e8867e471f8a565827c8212def74083a0062a2f', 'date': 'Mon, 12 Dec 2022 14:10:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sms-be-vip.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '868fe9742cebe54c7c5f7b20c03f187e9c10d5948e00771eaa2792165f360aee', 'date': 'Mon, 12 Dec 2022 14:10:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-stream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1da62bc8608959e5de54411a2dd97599df64c15881f4847cdbdc19fdd105f888', 'date': 'Mon, 12 Dec 2022 14:10:07 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-4-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '42acac9d19decb1017844b3d42baf444d7ecd8ec0ba88bb838c5cb3bb4da3ba4', 'date': 'Mon, 12 Dec 2022 14:10:08 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://api-settings.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3a2446b4661257d9f1ed444e730bc91c6deaa3c9c0c784ef63cd8aa1c5a8f28d', 'date': 'Mon, 12 Dec 2022 14:10:13 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://goldenglobes.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bb4005c4a9f99ef23874db55315ad3c955cd1869d353b630f75ac79ad7427608', 'date': 'Mon, 12 Dec 2022 14:10:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://assets3-backup.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9e6c738a3e9dd7648cff261a568485215c5530425728468cfbfc4dbf4c6b164d', 'date': 'Mon, 12 Dec 2022 14:10:15 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://thegoldenglobes.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '33fb75b7e01f78113a6af7ec0237da4a450b774cb022ee30e8266a15c4a87c96', 'date': 'Mon, 12 Dec 2022 14:10:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://boxing.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0dea5827a4c8a2054d8cf6cf731415b4ac1c5a364f2e20eae2a7e59ededc92ba', 'date': 'Mon, 12 Dec 2022 14:10:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://firefox.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '26a5c5f1d375bb69d3c6fe12ee267e09aa8970cc834b24983f5573cf25986a67', 'date': 'Mon, 12 Dec 2022 14:10:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-6-4.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5e2c0e3920df44ef6cffa0de750f135a5f7a676756920b41d71eb6629af4326e', 'date': 'Mon, 12 Dec 2022 14:10:24 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://birdseye.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '64696462e8ced4dbaa948c086979e4098d81dd9898fbfd54cae618a823932ca8', 'date': 'Mon, 12 Dec 2022 14:10:28 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tyo-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bdb34b3549da3a30b70869154b274d8d62f10f825b5d3973680942e0f2e22c0d', 'date': 'Mon, 12 Dec 2022 14:10:32 GMT', 'server': 'tsa_m', 'connection': 'close'}
+https://0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3f0d05489fb3d3baa1d87f8dd28f4e37a6e13ce041c8c3c8f51df6847199d297', 'date': 'Mon, 12 Dec 2022 14:10:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://help.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3fdbf3d9a065c0ae1a3caf0da860da9ca94fa5cebe885737bd93fdbf2cddd4d5', 'date': 'Mon, 12 Dec 2022 14:10:37 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-5-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '271832fb6be02e2b501ca87e79a20650fb2fae3ce48f997b6ddd5815d39e9b49', 'date': 'Mon, 12 Dec 2022 14:10:42 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://m.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '80bf44a5fa40edce2be7ac4c744d0329c792e3c890f09168cd1179eb85cde749', 'date': 'Mon, 12 Dec 2022 14:10:43 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://esl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6f754ca3616892d2b65ca539b8ba8367d2c0c2d81fc1fba87a1a80d20ddef67e', 'date': 'Mon, 12 Dec 2022 14:10:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://innovators.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '82e4af0c2defbd5d94665412daa74f35a231ef3d7a92221f05d79e45edfca8e9', 'date': 'Mon, 12 Dec 2022 14:10:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-0-0-39-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7b75aafbd131d1c8e1046b78c79a564a70bc1e0bb5f052ea116d060989b39c28', 'date': 'Mon, 12 Dec 2022 14:10:49 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://2014.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9910cbf036c59deb8b9636b308aa09fb279e68e8c5e7c725b3b349e4db3475f9', 'date': 'Mon, 12 Dec 2022 14:10:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://birdseye-beta.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '867af63651de3a0a9a4c0e7d59af1bf121c0d9e264d5cf2f8e582473e4e8dfc4', 'date': 'Mon, 12 Dec 2022 14:10:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://euro2012.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '86650e53cf4adf4885dabc7a2c1ed8c1324afe1143475b1b091f3238fd2129ed', 'date': 'Mon, 12 Dec 2022 14:10:56 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://assets1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'cd2b498f928b9f87cacb027f74ecb5de356abfb8d272b5ff38c2f7ffd3966f1f', 'date': 'Mon, 12 Dec 2022 14:10:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://www.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '56b51c6bfd93b3a45ae948053f7dae81ec9ab1b263170911bb9f0269a66e01cc', 'date': 'Mon, 12 Dec 2022 14:10:58 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://buzzfeed.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7f3d8d381823cfd072d31edf92551f21d133fbc76bbc016ef24d617783ec9fbe', 'date': 'Mon, 12 Dec 2022 14:10:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://gttr-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '52475e032d565b7b1a735cdd0d6a047117356fd91241e855583d3bdb0fb270d1', 'date': 'Mon, 12 Dec 2022 14:10:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://video.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd7444569745cd3b603f450d5698ad8b05b6f4a8101122d07c3ee1fea2fe15fe6', 'date': 'Mon, 12 Dec 2022 14:11:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://assets2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f85ad53770a86a998d295c8f8811a67605d4d9b01956848cc4b0c1850a95dc9b', 'date': 'Mon, 12 Dec 2022 14:11:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mtv.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'faffb1f751c7a38109ffb595a7c84e99ef836fbc475edc092d84110bda5a7264', 'date': 'Mon, 12 Dec 2022 14:11:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://covid19.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8529accdf62a8e0fe9d36c12694cfb4d88cbcbe695c12960ff8abce3f80694f3', 'date': 'Mon, 12 Dec 2022 14:11:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://gcf.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8f20ac20ae6c6e45270aa6966ed28cd0ae76ba7ded0a463490e9603aa11a815b', 'date': 'Mon, 12 Dec 2022 14:11:04 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://engineering.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9e92b244ae47037cb55f88ae37045d1c4987c0c42fd793bcf261af9720407cda', 'date': 'Mon, 12 Dec 2022 14:11:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-39-4-2-39-4-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9df3417b0d867b4d928e2e3fc0167816c454cae5915e3bd4c8f5d94cc16f930b', 'date': 'Mon, 12 Dec 2022 14:11:06 GMT', 'server': 'tsa_d', 'connection': 'close'}
+https://api-26-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'fd61f60c3300c5d163704d136188ad565b25caa904426dd5ee8b777acdef4f07', 'date': 'Mon, 12 Dec 2022 14:11:09 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://judo.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '640cbe5a879742feab72ca79250787d594657e20328daf2a47ff779f11144669', 'date': 'Mon, 12 Dec 2022 14:11:16 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://echidna.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e43aa3690a71b640af98ac96c2ad8fbe6cb61905593cfbe851af4652ddda0883', 'date': 'Mon, 12 Dec 2022 14:11:24 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://payments.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7222acaac10bbedfa3f359362d23cd78445fa75385d4f900a509d265701f810c', 'date': 'Mon, 12 Dec 2022 14:11:29 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://developers.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '77fc0ce2d2334efc833bcd77fa4a317d9d9d10edbf8fc342f7c076ba064397f3', 'date': 'Mon, 12 Dec 2022 14:11:29 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sites.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '22ca7a8b127527697e4991b51dcc54d359f49b57849d4d3757184a068d8ff9b0', 'date': 'Mon, 12 Dec 2022 14:11:30 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'db05d52eb0984586b0f39f753bad1677d5a492184c7ed9325ea96022923be0ee', 'date': 'Mon, 12 Dec 2022 14:11:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fyffest.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1fe59e741d8e3778dac9e50d1ac7c223c5d783485280b2a597b8573b9c5a9e72', 'date': 'Mon, 12 Dec 2022 14:11:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://eclipse2017.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9c2796c26e428bae3c9e838b24b9eda88b16aebc8cbeb6d0d4e0635e731cd0b3', 'date': 'Mon, 12 Dec 2022 14:11:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ign.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '70c4e9d579df65bd00aa87ad42fdc87f1517d3334d229effc825664627ac0799', 'date': 'Mon, 12 Dec 2022 14:11:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://biz.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e225dc3f24080b8f18303ac33766808f6238feade1fb84fe327c5cebedcb4c18', 'date': 'Mon, 12 Dec 2022 14:11:43 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-6-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '700443f3e80125e51ba3ff99cbc4428093bdc7e90fb108e7337733631b9b5bf4', 'date': 'Mon, 12 Dec 2022 14:11:44 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://dota2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7ec049f404a5d740af74d074841b583a9f46da7df3c9fa128b85a1476aa25228', 'date': 'Mon, 12 Dec 2022 14:11:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-32-4-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '03ffc20c7e2e2db4c3a0b015f6c8ef811f0577845883e55d46416bae18ad18dd', 'date': 'Mon, 12 Dec 2022 14:11:48 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://skyboxing.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b4f8ca9c59c64701c997e999345bdb97366e7d0d3b838164475970dbe254b140', 'date': 'Mon, 12 Dec 2022 14:11:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0-c.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2ffc6071091d91510985a2488e37f8fe12dcc5a4811435270ea5f65bbd280a32', 'date': 'Mon, 12 Dec 2022 14:12:02 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://concon.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'feef53b2bd2a8ef43774340ec4b76befefebfcc81bd0a1710c1a797043f4d644', 'date': 'Mon, 12 Dec 2022 14:12:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://neptune.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e4f8ff4925c581e821577021b909df39c4a2b8356997fd4867c11aa4745ad3ed', 'date': 'Mon, 12 Dec 2022 14:12:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://operator.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '99d1818b61d4bb61461911de9ca9bb8a9c6de7043538cba439986e46962ee00d', 'date': 'Mon, 12 Dec 2022 14:12:10 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-24-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2a6a7f8d8bf5d23e1f03bc447d0ab490cf761b6ecb739b4ba5bfd6974db89cae', 'date': 'Mon, 12 Dec 2022 14:12:15 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://translate.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4c046c8a5c1bdd19fd31e47197b5c6627606c76cd160b80522035d615ed7f6b9', 'date': 'Mon, 12 Dec 2022 14:12:20 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://brandhub.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e04cb32d7ca541a91538c6c96d8aa87e2650d2f00a04d6b5f3b51608f5901583', 'date': 'Mon, 12 Dec 2022 14:12:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://wimbledon.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bde470c89517a2e00fe6e2a6af0e32badf257b56dbf7dcebe7cf1a3323b52556', 'date': 'Mon, 12 Dec 2022 14:12:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://momentmaker.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bd036b77847b61051e71f747758a9b2530abd89b89e8129d17096dfd14cfe295', 'date': 'Mon, 12 Dec 2022 14:12:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://interactive.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '16932a78d6d9ef893be0d37c1190dad8ea7b8d63dbe97e999e3794e62391c1bf', 'date': 'Mon, 12 Dec 2022 14:12:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-4-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e4310a8ad86495a44218e79c57bb49738ee33c838481f9f2a4ec28b05984884c', 'date': 'Mon, 12 Dec 2022 14:12:32 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://lite.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a0e6647fac4fd3bede59aeada5360c124236c99cae2b672ebf90ba7063573482', 'date': 'Mon, 12 Dec 2022 14:12:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://flightschool.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '07edb193205a09001a9979f927febe609192059c491affeb8c4711f1d60d899f', 'date': 'Mon, 12 Dec 2022 14:12:34 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-23-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a0d097b74ed02d14a521c88218dec43c848d8ad3ce1327bd19ef4f9847ba98c6', 'date': 'Mon, 12 Dec 2022 14:12:36 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://probe-t.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '573cf657e77424efb71fcc5b4076ecda14be5a2ca526ff36dce264076bccf381', 'date': 'Mon, 12 Dec 2022 14:12:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://atl-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3ea885cfdd1990644257e022f1ee1aecb168c23dc22dfb88b02c046ae4802597', 'date': 'Mon, 12 Dec 2022 14:12:39 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://comiccon.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9fcc9ecc229740c1c3b099524083fb2f3b71ff5fef5529686f1df66b43381df4', 'date': 'Mon, 12 Dec 2022 14:12:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://converse.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '15046eb5732b6dfeb35ab522536cb36dbc3f44f3e5f41924763310205921daa3', 'date': 'Mon, 12 Dec 2022 14:12:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://partners-dev.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'bf56e4957c2f5bd07f03a366b15197f6f189863129cc3f39789d3e36345cdbd9', 'date': 'Mon, 12 Dec 2022 14:12:46 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://live.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '287fb5c84c97bd0e1a9a6df0fa21e64dfd7a392aeec248e0e254e67a300a3a75', 'date': 'Mon, 12 Dec 2022 14:12:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://arsenal.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1f4a4a013321ed50129f08eaa5b7bff836494a3c7c2b748b5906f12a3a852d6d', 'date': 'Mon, 12 Dec 2022 14:12:47 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-36-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c35e204c993684ae44594c404447d1c854b50ed3c91f73360f8b271cf7562035', 'date': 'Mon, 12 Dec 2022 14:12:49 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://watchstadium.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1f363d9b304f770f1d2b2bf5418114d850cc7004c694661bf5d60eb7917148ca', 'date': 'Mon, 12 Dec 2022 14:12:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://jtbc.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a7b8c2da5f0460885de59b2ba8cadeb7b307e5476aaef5758839ab0c588a96b9', 'date': 'Mon, 12 Dec 2022 14:12:51 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://barstool.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4a2ed8e6288fea7728c81abe3570fcd3ac8e37f455cf759d6e78c7748e4261c7', 'date': 'Mon, 12 Dec 2022 14:12:52 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://university.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '41b1089a9b33efc9ed4c813787447657f0d31a5d755550f80e5ab80346af55cc', 'date': 'Mon, 12 Dec 2022 14:12:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://elections.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9b194ee9c291a149a64436abb034e5fadc268cbf9b105b030e746741285add8e', 'date': 'Mon, 12 Dec 2022 14:12:58 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://claws.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '33f4e8bdaa6f2d09d446470a7e2740d56da4de97a0ef0ce7dadc96ed40eb0b8b', 'date': 'Mon, 12 Dec 2022 14:12:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ton.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '354c669580f805c958b3cbb51c41ea6b87634f5916c24506a31b6edee7b17603', 'date': 'Mon, 12 Dec 2022 14:13:00 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://business-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a1bee7b5b253ec6394cdcc1e4c5713f467c1150be62c069ff54b117d65353823', 'date': 'Mon, 12 Dec 2022 14:13:00 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ads-api-sandbox.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0343b359b73d06842273f34d2132444ebe3bed978e2398f9c35b7a99d4585a53', 'date': 'Mon, 12 Dec 2022 14:13:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://masterchefmx.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b126a0bb035b6684d53c0bc826ffda2316874786be76cd561e32488e8b3362dd', 'date': 'Mon, 12 Dec 2022 14:13:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://rockinrio.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b2a9b3c9bb5cea5ad49a5035ac85b4d4316fe71f15e3c9a978a6999dcad98e99', 'date': 'Mon, 12 Dec 2022 14:13:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://sambee.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '504fcaf6cc67f3bce616c911012f7a05bfd2cc42f87e9c547af3b5af583fd246', 'date': 'Mon, 12 Dec 2022 14:13:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-28-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c08a013f260a996cfb1a5efe717e680d1a1fee4406dfdf426b15cf1c38cbb490', 'date': 'Mon, 12 Dec 2022 14:13:04 GMT', 'server': 'tsa_b', 'connection': 'close'}
+https://nike.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ad2cef40666434d960b910467e162556acc44945693e3e6d4af873d9eb5cd876', 'date': 'Mon, 12 Dec 2022 14:13:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-1-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5e38852f94105a57c4f95d5bd9f6beace40c8288d214b6cf1dafe5d8f2aa9e82', 'date': 'Mon, 12 Dec 2022 14:13:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://overwatch.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd8e0c679f8ff62c6c74723e467b6f44e103f09a615a2fb99556e6a07932b5fc3', 'date': 'Mon, 12 Dec 2022 14:13:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://verification.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8321bf213f896afeda18cc72a1cee2d0b1802068550ada0d9fb6c91463d682ca', 'date': 'Mon, 12 Dec 2022 14:13:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://start.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ef1ebde2df931f80f97673e0df8cdcd0651ddfa6dbf88cb7d5e96e24dc3f5734', 'date': 'Mon, 12 Dec 2022 14:13:26 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://privacy.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c7033d1ed134f5445d3cf76ad4e3ed712bdfc621673dc95b339c8e725c98e6cf', 'date': 'Mon, 12 Dec 2022 14:13:36 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mll.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'aaef6084ef11540d09a3dd34c60ef7a6d78fab2b9eba73d477d4e2ed1e134e63', 'date': 'Mon, 12 Dec 2022 14:13:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://vine.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9e8995d13281bc0e5818ccce3278f4adbf73a1f696ae6d642694aaf9279a627a', 'date': 'Mon, 12 Dec 2022 14:13:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://yearinreview.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd0e679a99772c58b1f0e0b6b8255e5597947e51959213782f1e8d69f94ff77e2', 'date': 'Mon, 12 Dec 2022 14:13:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://vmas.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b24744f6ec99b807f6403237637080efc6e738c4ca08cb3786dae9dd729132d1', 'date': 'Mon, 12 Dec 2022 14:14:03 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ads-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4ef93dd7afdff52fd7ba93a2598d93006e9c31af0515b49e26fd87956c7d347f', 'date': 'Mon, 12 Dec 2022 14:14:05 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://caps.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e184ca6f6c68cd1c920edd158a8658c66d1c35f98e38a4901b43d64485876f7f', 'date': 'Mon, 12 Dec 2022 14:14:06 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cards-beta.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a03cc8e43392f26b6ba6d522b8baf9a642a31737229d058e3d0a14aa3266d433', 'date': 'Mon, 12 Dec 2022 14:14:07 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://iem.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e30e8c350212182f980a2b911f349586729b0faad983524e3d23945e3c9cf94c', 'date': 'Mon, 12 Dec 2022 14:14:07 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-40-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '63ff70ccba5305a3a6b0c1ca1398827cba2b0835fe2331c59b3d04286e3e0e29', 'date': 'Mon, 12 Dec 2022 14:14:09 GMT', 'server': 'tsa_p', 'connection': 'close'}
+https://gnip-stream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'edf862c79dba6091bc28c80677d6f3110e6256c84343d74512a94e4b46a2cd67', 'date': 'Mon, 12 Dec 2022 14:14:13 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://kbs.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2b0e8300ca9cb0daeecf528c560701dced634782761614c95f60f0220b76d676', 'date': 'Mon, 12 Dec 2022 14:14:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-4-3.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'a1bb6d37cb308190859be095480dfbf21f8f2bfe53da24d1822b29ed4c4106fe', 'date': 'Mon, 12 Dec 2022 14:14:16 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://gtcp2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '66396641730c77afc40e825442b54db021344264f4d6fdcb4a72cefb266ea301', 'date': 'Mon, 12 Dec 2022 14:14:17 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://upload-0-4-2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8f57bc76ff44931941acd4d1ae8e90b5ce11a11473cfc16f4f2ae59e9285ba48', 'date': 'Mon, 12 Dec 2022 14:14:18 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://wnba.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8519f63d272b9a1609abfea9d77df4e4428694a9fc79265d8ed951e255405826', 'date': 'Mon, 12 Dec 2022 14:14:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-46-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '13606df607b84c47f6232e247444082368e543d3ab6010b4883f9c607ec00f2c', 'date': 'Mon, 12 Dec 2022 14:14:20 GMT', 'server': 'tsa_m', 'connection': 'close'}
+https://nikebreaking2.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '6a69838ecdcbc41c8771ead275daff4c6fe0c4743c42648b29d490d2c36c0c39', 'date': 'Mon, 12 Dec 2022 14:14:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://nll.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e81930bfb789adca45edff82455a93a1de7b884901c717fb5f4e088e3a4ded8d', 'date': 'Mon, 12 Dec 2022 14:14:22 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://drl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd599338ed4f93288952e6b9d942e75cfd5d7d8412f02da49d8dd0bf3ef853906', 'date': 'Mon, 12 Dec 2022 14:14:23 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://branch.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0df760691949c3bb3e9d27022ab827d0794251569797e5af9bae5a46fea13cea', 'date': 'Mon, 12 Dec 2022 14:14:24 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ethicshelpline.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '54099dde1ed0b7f1f73119e312c629586791e4200eb8d3f7c6c72db5cdac0d4a', 'date': 'Mon, 12 Dec 2022 14:14:31 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-44-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '378bba321989acada95faa3f4f6e12fdc264f480594b3ed5b5b7270121009a66', 'date': 'Mon, 12 Dec 2022 14:14:32 GMT', 'server': 'tsa_l', 'connection': 'close'}
+https://tdapi.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8d6503055938238b30af3351b9e5fab050ff8e6e3a923e179f4670a0055d66c1', 'date': 'Mon, 12 Dec 2022 14:14:33 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://measure1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '26e936e38c927e7437dc886634e2dbf8b68f9fe5195fd6373459414667e73069', 'date': 'Mon, 12 Dec 2022 14:14:34 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://happening.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ce354dc43885a962dec8d335722547c60f6f7fe6f53eb5f15ac88d1c60f9e9e2', 'date': 'Mon, 12 Dec 2022 14:14:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://jleague.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '64edb4221e8ec87d95d5ec4950d826f77b7e8ac3eea299749befffe0956f832d', 'date': 'Mon, 12 Dec 2022 14:14:39 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mobile.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '49eaca4ed0573cf31b97eaeec7ad72ead343f41e35426c84ff72bf976b240b16', 'date': 'Mon, 12 Dec 2022 14:14:40 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://redzone.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '61a14630b3276d78055e1314e1a44f3d4075aa2447f2032f94f447952476e76c', 'date': 'Mon, 12 Dec 2022 14:14:41 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://handinhand.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4eb113835e2281bc8fab11ef65635278e416fb0afb3636f40516c23fe074ea83', 'date': 'Mon, 12 Dec 2022 14:14:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://katyperry.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '3de835105bafa10fe57872eebe749dc854c70e80af84d2988cee2f038f76f122', 'date': 'Mon, 12 Dec 2022 14:14:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://help-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7051521ae6a80b982d67f4cb4a091b9f8bde2b47956be7123769f567b5a5759d', 'date': 'Mon, 12 Dec 2022 14:14:43 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ema.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7207d54d5e0091864038ba543f1e181d38812bc703263b6c331bddbe040c633a', 'date': 'Mon, 12 Dec 2022 14:14:51 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tinteractive.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '7e51e6c907740e78f5a8fe6a44966cb0102f4c67b840b91ee92709ef88122f43', 'date': 'Mon, 12 Dec 2022 14:14:52 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://takeflight.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1ba4572f7b1e38831f4eacf3a89bc6be04886f68d16bed6c26094579ab5f239a', 'date': 'Mon, 12 Dec 2022 14:14:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://debate.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '8dcef4607a3ad63034b10d97dc3096697611ec47bd53a52159b9a1b3462d3216', 'date': 'Mon, 12 Dec 2022 14:14:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://zbb.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b10bc8fd3829bf56c4a5aa67165bc8fb1c47e2ac5e08fd35cf72a51417502677', 'date': 'Mon, 12 Dec 2022 14:14:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-0-4-7.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '24839fe86aae8c9f3947f09a959612b242203c65bb80ddc5aad5556bf1d6767c', 'date': 'Mon, 12 Dec 2022 14:14:55 GMT', 'server': 'tsa_l', 'connection': 'close'}
+https://assets4.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '32da7baac6d44e3c616bca4473fe4964760a870c701570a9955c978793a468bb', 'date': 'Mon, 12 Dec 2022 14:14:57 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://gnip-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4a615fc144fbb737bef15c5e1a57bc863bf6c28229256eb5a2c68b6bcfcb6d03', 'date': 'Mon, 12 Dec 2022 14:14:58 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tw-ton.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '0ddd68c5073d8a5f370b1574146c9c66f51a2e86f78b5320c92a0ce5950b8518', 'date': 'Mon, 12 Dec 2022 14:14:59 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://bravo.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'de49afa58d8bc516bf616792c0dc97eb568ab63dc92ecfdae008a0cb7186c832', 'date': 'Mon, 12 Dec 2022 14:15:00 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://zedd.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '96c44114f421a829b54d016cd987f6b4444c089e09e5ff5a203efb17bb396092', 'date': 'Mon, 12 Dec 2022 14:15:01 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://fyf.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b78e22172518058559cc61d0c56525d7b7d9e882526f9299989576f5c58842fc', 'date': 'Mon, 12 Dec 2022 14:15:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-37-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'c571c3ec9154ef4cf340d691f50730bcc0d4d458ce6cf845fd413cf9bfaf6009', 'date': 'Mon, 12 Dec 2022 14:15:06 GMT', 'server': 'tsa_a', 'connection': 'close'}
+https://dc-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'd41147b59a9601cb73b3c92f69a34727fe822b8d186e4a084536afe7fb628629', 'date': 'Mon, 12 Dec 2022 14:15:08 GMT', 'server': 'tsa_p', 'connection': 'close'}
+https://api-32-0-0-32-6-4.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '5d4a7f0597761a192f8ac6c9a4bf9df84ce3f4b540853aadfb4fab845eed7afc', 'date': 'Mon, 12 Dec 2022 14:15:10 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://about.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'ffb9343e6fd6a0e54ac505d0e100e10dcaabdf80b5e63138c015ae5392f0499a', 'date': 'Mon, 12 Dec 2022 14:15:14 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://studio.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f15699fc6db7a14e43a9d2d0b147e4dc8b49c92b763756a95bf3133b33d1821a', 'date': 'Mon, 12 Dec 2022 14:15:15 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://gdpr-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '4a1bb462629850622a5594a58ad01695ea687be935b17fe2c0ba17d32eebed3c', 'date': 'Mon, 12 Dec 2022 14:15:19 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://directresponse.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '00f0668a607ce4d29b399c98948672f93e469481ebad0f1e732e6482b3a5d09c', 'date': 'Mon, 12 Dec 2022 14:15:20 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://legacy-api.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '453343fe6b7f43bd72f8a40a76a1c48cf619f78d891a8c4904c840c3405779e9', 'date': 'Mon, 12 Dec 2022 14:15:20 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-0-4-6.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '376daf11bc046205035dd4a5f45d9efd3335d5889b2b40faa03a5f135d9c7c8a', 'date': 'Mon, 12 Dec 2022 14:15:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://blog.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '78d3143a5d46f49c477caa23a2fdbf9f48b7b944ee5ee165ee90678dc23781f8', 'date': 'Mon, 12 Dec 2022 14:15:21 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://mobilefeedback.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e198846c3b88960b645fda502b042e677c79ee605ff607eb67009fdbdb5d64fb', 'date': 'Mon, 12 Dec 2022 14:15:27 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://rally.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '178d4157efac96807f07d4e7e306651b9c7398113cd2e3cbf8c0ec64353ecc6b', 'date': 'Mon, 12 Dec 2022 14:15:28 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://theemawards.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f68731de27c2457583a3d7e217288423229952b69be8e7e123f36122e103447a', 'date': 'Mon, 12 Dec 2022 14:15:32 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://probe.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '388192d596f321d33032d2b048040b1769bc5be4667c9957308c02e91ae20a18', 'date': 'Mon, 12 Dec 2022 14:15:36 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://ms1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '1da258dcf5dedb73eb96e2e1ce029c741d30f747224e6103e7706d7f2a873bfd', 'date': 'Mon, 12 Dec 2022 14:15:37 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://afl.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e63be8ae92b8f931bad54fa1f40e4d3dae370adca395ebd9b27894800a753148', 'date': 'Mon, 12 Dec 2022 14:15:38 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-45-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'df3103bd94e64758c47b08755cf6d39abafcd7ff54a32968d70070c951226f89', 'date': 'Mon, 12 Dec 2022 14:15:42 GMT', 'server': 'tsa_m', 'connection': 'close'}
+https://coachella.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '85b9f927b9b4627a4af93bd38d1ff6138abe6809b4dcb418dd04a10d526a4fac', 'date': 'Mon, 12 Dec 2022 14:15:42 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://tommynow.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '048bb58d143e04f189d14485219693de40a97838fbfb716e7cac448872c9fbf1', 'date': 'Mon, 12 Dec 2022 14:15:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://datastream.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'f8d66abc4fdfd21a23723f8d9fea71375075027c799b189149cffcdf9780b890', 'date': 'Mon, 12 Dec 2022 14:15:44 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://stories.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'cc1fe74192909ad6a5ee82f7544a7b561001e80bfae1fc1bc853a37a96ee3881', 'date': 'Mon, 12 Dec 2022 14:15:45 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://apple.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '098a566f692a01cb9251390f49ed1cce77cb3b37801aea81610afe39bc0ef7e7', 'date': 'Mon, 12 Dec 2022 14:15:50 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-26-0-0-26-0-1.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '44bc85bc74f68b160e3284bb47ae90b10433a7283a5d94af4d726372d42488f8', 'date': 'Mon, 12 Dec 2022 14:15:51 GMT', 'server': 'tsa_o', 'connection': 'close'}
+https://depechemode.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '20ed4dd3bed92f8032ae85962c2e17e160cb00669880eceba6816f58264fc064', 'date': 'Mon, 12 Dec 2022 14:15:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://rdma.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '83be8eea20f2d7526af4c160e4fd7a648912dd6818ba63a81d004d691938c21d', 'date': 'Mon, 12 Dec 2022 14:15:53 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://content.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e0fdad8205f04615f753c6f2d442f4d4fd5cc5140ed37d5ce4e98861868e90ce', 'date': 'Mon, 12 Dec 2022 14:15:54 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://badgleymischka.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '76ff9034a1bb7876fefea39bd88d24ffe6176510ed0980e60a2b549cac731900', 'date': 'Mon, 12 Dec 2022 14:15:55 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://horizon.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '2fabfb367bd762f314d4b6266c616b47f266c57adbefdde4de982e8904a42735', 'date': 'Mon, 12 Dec 2022 14:15:56 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://cortex-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': '9443de80843b0b2dd38e4963f30bdcd90e47afa1803d1da433662caa10954cb0', 'date': 'Mon, 12 Dec 2022 14:15:56 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://wwe.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'fbeee7f4616b471f8bff403e558f38005f2f0712cd39a54c620ea4d00eb85184', 'date': 'Mon, 12 Dec 2022 14:16:02 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://about-staging.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'b51946936ecbaf88317777b8e177a7c31671c72c7ab7d759e046688b487a0802', 'date': 'Mon, 12 Dec 2022 14:16:09 GMT', 'server': 'tsa_k', 'connection': 'close'}
+https://api-32-0-0.twitter.com/robots.txt?version=poc123
+{'content-length': '11', 'content-type': 'text/plain', 'x-connection-hash': 'e5c08f966bcbec094a0f7ee9d33ca7f1213eec05285831746d93e28bbf141e29', 'date': 'Mon, 12 Dec 2022 14:16:11 GMT', 'server': 'tsa_f', 'connection': 'close'}
+https://sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://api-s.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21730'}
+https://api-aa-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '253', 'Connection': 'close'}
+https://shopping.paypal.com/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 14:26:14 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1', 'Strict-Transport-Security': 'max-age=15552000; includeSubDomains'}
+https://business-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://ipnpb-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://postcollector.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21738'}
+https://lvs.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://p.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21744'}
+https://pics-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://api-m.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21723'}
+https://pns.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '253', 'Connection': 'close'}
+https://b.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://cors.api-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21742'}
+https://securepayments.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21733'}
+https://c.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 14:47:55 GMT', 'Server': 'ECLF (nag/992C)'}
+https://api-aa.sandbox.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '253', 'Connection': 'close'}
+https://petition.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21724'}
+https://business.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21751'}
+https://c.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21721'}
+https://pics.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21733'}
+https://cors.api.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 14:55:30 GMT', 'Server': 'ECLF (nag/9983)'}
+https://pics.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21739'}
+https://pep.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 14:55:45 GMT', 'Server': 'ECLF (nag/990B)'}
+https://tsp.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '253', 'Connection': 'close'}
+https://chd.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://partner-monitoring.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Mon, 12 Dec 2022 14:57:22 GMT'}
+https://securepayments.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21735'}
+https://www.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 14:59:24 GMT', 'Server': 'ECLF (nag/9938)'}
+https://view.zettle.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 14:59:53 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://demo.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21751'}
+https://www.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21734'}
+https://paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21734'}
+https://financing.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21734'}
+https://api-aa.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '253', 'Connection': 'close'}
+https://api-m.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21747'}
+https://view.emails.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:08:44 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://hnd.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://cloud.emails.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:11:37 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://creditapply.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:15:54 GMT', 'Server': 'ECLF (nag/9925)'}
+https://dub.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://commerce.paypal.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://click.emails.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:17:27 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://c-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://securepayments-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://qwac.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:24:27 GMT', 'Server': 'ECLF (nag/9934)'}
+https://pointofsale-s.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21722'}
+https://api.financing.paypal.com/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 15:26:14 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://history.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21733'}
+https://click.zettle.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:30:15 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://mobile.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://www-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21747'}
+https://business.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21734'}
+https://c6.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:35:25 GMT', 'Server': 'ECLF (nag/992D)'}
+https://commerce.sandbox.paypal.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://api-s-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://cloud.zettle.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:37:56 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://cors.api.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21751'}
+https://slc.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://api-m-v2.sandbox.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://zettleintegrations.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:40:38 GMT', 'Server': 'ECLF (nag/993B)'}
+https://t.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:41:05 GMT', 'Server': 'ECLF (nag/992E)'}
+https://fpdbs.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://m.paypal.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21730'}
+https://slc2.stats.paypal.com/robots.txt?version=poc123
+{'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://safebreach.paypal.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:47:09 GMT', 'Server': 'ECLF (nag/9923)'}
+https://m.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21751'}
+https://xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21749'}
+https://mobile.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://view.messages.xoom.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:48:49 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://www.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://embed.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21740'}
+https://webservices.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://click.messages.xoom.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:51:44 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://partner.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://pages.xoom.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:52:26 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://t.xoom.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 15:52:34 GMT', 'Server': 'ECLF (nag/9960)'}
+https://id.xoom.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21740'}
+https://pages.messages.xoom.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=us-ascii', 'Date': 'Mon, 12 Dec 2022 15:54:09 GMT', 'Connection': 'close', 'Content-Length': '339'}
+https://client-analytics.braintreegateway.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'Close'}
+https://sandbox.braintreegateway.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://panel.qa.braintreegateway.com/robots.txt?version=poc123
+{'Connection': 'close'}
+https://panel.braintreegateway.com/robots.txt?version=poc123
+{'Connection': 'close'}
+https://api.sandbox.braintreegateway.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://www.braintreegateway.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://braintreegateway.com/robots.txt?version=poc123
+{'Content-Length': '90', 'Cache-Control': 'no-cache', 'Content-Type': 'text/html', 'connection': 'close'}
+https://api.braintreegateway.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://panel.sandbox.braintreegateway.com/robots.txt?version=poc123
+{'Connection': 'close'}
+https://forwarding.sandbox.braintreegateway.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://apply.braintreegateway.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://id.sandbox.venmo.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://id.venmo.com/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 19:12:02 GMT', 'Server': 'ECLF (nag/9979)'}
+https://ml.qa.venmo.com/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 20:33:42 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://mtc.cdn.vine.co/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 22:10:26 GMT', 'Server': 'ECLF (nag/993E)'}
+https://v.cdn.vine.co/robots.txt?version=poc123
+{'Content-Type': 'text/html', 'Content-Length': '349', 'Connection': 'close', 'Date': 'Mon, 12 Dec 2022 22:10:27 GMT', 'Server': 'ECLF (nag/9917)'}
+https://embed.odesli.co/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://api.staging.odesli.co/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21743'}
+https://v2.staging.odesli.co/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://odesli.co/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.odesli.co/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://embed.staging.odesli.co/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://v2.odesli.co/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://api.odesli.co/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21722'}
+https://staging.song.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://song.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://embed.staging.song.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://embed.song.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://api.song.link/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://api.staging.song.link/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21723'}
+https://album.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.album.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://artist.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.artist.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://pods.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.pods.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://playlist.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.playlist.link/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.mylink.page/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://mylink.page/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://qa.tr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21747'}
+https://redirect.qa.tr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:10:51 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://www.linktree.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://linktree.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://qa.linktree.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://www.qa.linktree.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21738'}
+https://staging.odesli.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://odesli.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://staging.songlink.io/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://songlink.io/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://production.retool.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:10:56 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://blog.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21747'}
+https://www.blog.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://www.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21741'}
+https://payments.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:00 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://ltconsumer-app.production.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:04 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://qa.blog.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://canva.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:07 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://ablink.ae.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://url-insights.production.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:13 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://url1741.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21722'}
+https://shopify-integrations.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:42 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://revenue-cat.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:44 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://paypal-payments.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:52 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://backstage.platform.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:11:57 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://dev.retool.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:12:41 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://cms.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://jobs.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21724'}
+https://qa.shopify-store.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:12:43 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://scim-1password.platform.linktr.ee/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://lookerbot.production.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:12:59 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://website.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-mrs10583'}
+https://userinfo.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:13:07 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://revenue-cat-filter.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:13:09 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://onboarding.platform.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:13:11 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://stripe-payments.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:13:13 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://simulacron.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:13:15 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://systems.linktr.ee/robots.txt?version=poc123
+{'Content-Type': 'text/html'}
+https://websiteqa.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-mrs10530'}
+https://qa.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ablink.ma.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://matching.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:14:33 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://status.linktr.ee/robots.txt?version=poc123
+{'Content-Type': 'text/html'}
+https://ltconsumer-app.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:14:42 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://chargehound.production.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:14:46 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://qa.shopify-integrations.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:01 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://chargebee.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:11 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://url-insights.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:13 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://flux.platform.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:24 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://help.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://revenue-cat-filter.production.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:31 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21734'}
+https://revenue-cat.production.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:38 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://profiles-api.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:40 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://cms.qa.linktr.ee/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21751'}
+https://chargehound.qa.linktr.ee/robots.txt?version=poc123
+{'Date': 'Mon, 12 Dec 2022 22:15:52 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}

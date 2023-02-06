@@ -1,0 +1,10 @@
+https://profiler.corporatetools.com/robots.txt?version=poc123
+{'Date': 'Fri, 13 Jan 2023 16:17:34 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://api.corporatetools.com/robots.txt?version=poc123
+{'Date': 'Fri, 13 Jan 2023 16:17:54 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://api.corporatetools.com/robots.txt?version=poc123
+{'Date': 'Fri, 13 Jan 2023 16:26:13 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://northwestregisteredagent.com/robots.txt?version=poc123
+{'Date': 'Fri, 13 Jan 2023 16:26:16 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://www.onlineaccount.net/robots.txt?version=poc123
+{'Date': 'Fri, 13 Jan 2023 16:26:18 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}

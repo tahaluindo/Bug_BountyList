@@ -1,0 +1,26 @@
+https://dev-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:33:41 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'EMEA DEV'}
+https://dev-emea-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:34:32 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'EMEA DEV'}
+https://amer-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:34:36 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'AMER PROD'}
+https://dev-amer-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:34:38 GMT', 'Content-Type': 'text/html', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'AMER DEV'}
+https://dev-apac-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:34:40 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'APAC DEV'}
+https://staging-amer-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:35:00 GMT', 'Content-Type': 'text/html', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'AMER STAGING'}
+https://api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:35:20 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'EMEA PROD'}
+https://apac-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:35:27 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'APAC PROD'}
+https://emea-api.walker-cloud.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:35:32 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'EMEA PROD'}
+https://alexa.junelife.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:36:37 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'AMER PROD'}
+https://api.junelife.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:36:47 GMT', 'Content-Type': 'text/html', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'AMER PROD'}
+https://dev-api.junelife.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:37:45 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'JUNE US DEV'}
+https://dev-alexa.junelife.com/robots.txt?version=poc123
+{'Date': 'Sun, 25 Dec 2022 09:38:28 GMT', 'Content-Type': 'text/html; charset=utf-8', 'Content-Length': '150', 'Connection': 'keep-alive', 'X-June-Cloud-Region': 'JUNE US DEV'}

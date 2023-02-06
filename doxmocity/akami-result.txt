@@ -1,0 +1,4 @@
+https://wiki.doximity.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Tue, 15 Nov 2022 08:30:16 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://scim.doximity.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}

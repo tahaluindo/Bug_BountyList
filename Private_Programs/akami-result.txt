@@ -1,0 +1,308 @@
+https://invite.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:03 GMT'}
+https://invite.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:04 GMT'}
+https://docs.data-warehouse.intra.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '1555', 'Date': 'Sat, 03 Dec 2022 10:25:07 GMT', 'X-Google-GFE-Backend-Request-Cost': '41.783217363773893', 'X-Google-GFE-Load-Report': 'utilization_percent: 41.78322 queries_per_second: 16651 errors_per_second: 0'}
+https://webhook-clearbank.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:08 GMT'}
+https://argo-workflows.ops.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:09 GMT'}
+https://ecb.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:09 GMT'}
+https://dbt-models.data-warehouse.intra-dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '1555', 'Date': 'Sat, 03 Dec 2022 10:25:11 GMT', 'X-Google-GFE-Backend-Request-Cost': '42.106983328129935', 'X-Google-GFE-Load-Report': 'utilization_percent: 42.106983 queries_per_second: 15246 errors_per_second: 0'}
+https://static-assets.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:12 GMT'}
+https://api.grpc-experiments.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:12 GMT'}
+https://static-assets.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:13 GMT'}
+https://webhook-onboarding.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:13 GMT'}
+https://argo-cd.ops.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:15 GMT'}
+https://www.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:15 GMT'}
+https://grafana.ops.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:16 GMT'}
+https://guacamole.ops.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:17 GMT'}
+https://clicks.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:17 GMT'}
+https://docs.engineering.intra.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '1555', 'Date': 'Sat, 03 Dec 2022 10:25:20 GMT', 'X-Google-GFE-Backend-Request-Cost': '43.106865544117142', 'X-Google-GFE-Load-Report': 'utilization_percent: 43.106865 queries_per_second: 20092 errors_per_second: 0'}
+https://static-assets.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:21 GMT'}
+https://grafana.ops.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:21 GMT'}
+https://vault.ops.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:22 GMT'}
+https://webhook-onboarding.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:22 GMT'}
+https://grafana.ops.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:23 GMT'}
+https://argo-cd.ops.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:23 GMT'}
+https://webhook-cryptocurrencyalerting.prod.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:29 GMT'}
+https://webhook-cryptocurrencyalerting.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:30 GMT'}
+https://webhook-clearbank.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:31 GMT'}
+https://dbt-models.data-warehouse.intra.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '1555', 'Date': 'Sat, 03 Dec 2022 10:25:32 GMT', 'X-Google-GFE-Backend-Request-Cost': '43.501249239177717', 'X-Google-GFE-Load-Report': 'utilization_percent: 43.501247 queries_per_second: 15287 errors_per_second: 0'}
+https://argo-workflows.ops-dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:33 GMT'}
+https://ecb.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:33 GMT'}
+https://docs.engineering.intra-dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '1555', 'Date': 'Sat, 03 Dec 2022 10:25:34 GMT', 'X-Google-GFE-Backend-Request-Cost': '41.972473408358752', 'X-Google-GFE-Load-Report': 'utilization_percent: 41.972473 queries_per_second: 10774 errors_per_second: 0'}
+https://webhook-clearbank.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:35 GMT'}
+https://vault.ops.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:37 GMT'}
+https://docs.data-warehouse.intra-dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '1555', 'Date': 'Sat, 03 Dec 2022 10:25:38 GMT', 'X-Google-GFE-Backend-Request-Cost': '43.112294650652224', 'X-Google-GFE-Load-Report': 'utilization_percent: 43.112293 queries_per_second: 17550 errors_per_second: 0'}
+https://webhook-cryptocurrencyalerting.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:39 GMT'}
+https://vault.ops.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:43 GMT'}
+https://ecb.staging.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:45 GMT'}
+https://argo-cd.ops.dev.ziglu.io/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:46 GMT'}
+https://www.esqimo.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 10:25:52 GMT'}
+https://blog.grindr.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://www.blog.grindr.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://go.grindr.com/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:26:59 GMT', 'Server': 'Apache', 'Content-Length': '226', 'Connection': 'close', 'Content-Type': 'text/html; charset=iso-8859-1'}
+https://msgstore.grindr.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'Close'}
+https://admin.grindr.com/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://helpdesk.grindr.com/robots.txt?version=poc123
+{'Access-Control-Allowed-Origin': '*', 'Content-Length': '11', 'Content-Type': 'text/plain', 'Date': 'Sat, 03 Dec 2022 10:29:01 GMT', 'Server': 'AtlassianEdge', 'Connection': 'close'}
+https://uncoupled.grindr.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://www.uncoupled.grindr.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://api.dev.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:32:48 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:32:50 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://www-k8s.prod.grindr.io/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'Close'}
+https://jenkins-webhook.platform.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:38:56 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://traefik-public.dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:42:25 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://traefik-public.platform.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:46:47 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://api.dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:50:24 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://atlantis-events.platform.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:52:16 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://abtest-api.dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:54:01 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://web-backend.dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:54:56 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://traefik-public.prod.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:57:23 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://jenkins-webhook.prod.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 10:58:07 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://hiring.prod.grindr.io/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'Close'}
+https://techradar.dev.grindr.io/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://web.dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:08:11 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://abtest.dev2.grindr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:09:17 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://on.cameo.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://calendar.cameo.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://clicks.cameo.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'Close'}
+https://smart.cameo.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://tracking.cameo.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://scim.cameo.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://pass.cameo.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://jobs.bigcartel.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://ssl-57.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-27.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21743'}
+https://ssl-123.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-102.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://ssl-183.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21739'}
+https://ssl-276.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21721'}
+https://ssl-18.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://ssl-135.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21734'}
+https://ssl-246.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://ssl-126.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-99.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-24.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21748'}
+https://ssl-69.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21736'}
+https://ssl-45.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://ssl-51.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ssl-87.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21743'}
+https://upload.bigcartel.com/robots.txt?version=poc123
+{'content-length': '90', 'cache-control': 'no-cache', 'content-type': 'text/html', 'connection': 'close'}
+https://ssl-108.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21749'}
+https://ssl-42.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21722'}
+https://ssl-120.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ssl-159.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21735'}
+https://ssl-111.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-66.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://ssl-90.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21723'}
+https://ssl-114.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-21.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21722'}
+https://ssl-270.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21742'}
+https://ssl-60.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21744'}
+https://ssl-213.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21744'}
+https://ssl-39.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-36.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://ssl-84.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://ssl-72.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21744'}
+https://ssl-150.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21739'}
+https://ssl-153.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ssl-63.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://ssl-138.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21746'}
+https://ssl-15.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21740'}
+https://ssl-243.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21745'}
+https://ssl-54.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21728'}
+https://ssl-33.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21736'}
+https://ssl-30.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21738'}
+https://ssl-162.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21729'}
+https://ssl-117.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21721'}
+https://ssl-12.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21743'}
+https://ssl-48.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21723'}
+https://ssl-93.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21721'}
+https://ssl-78.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21733'}
+https://ssl-75.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21726'}
+https://ssl-96.bigcartel.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21750'}
+https://services.neos.co.uk/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:16:54 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://scheduler.neos.co.uk/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:17:21 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://production.neos.co.uk/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:18:07 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://app.neos.co.uk/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:18:12 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://webhooks.neos.co.uk/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:18:15 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://wiki.doximity.com/robots.txt?version=poc123
+{'Server': 'Cowboy', 'Date': 'Sat, 03 Dec 2022 11:19:12 GMT', 'Connection': 'close', 'Via': '1.1 vegur'}
+https://scim.doximity.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://auth.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:20:28 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://trashy.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:20:31 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://lbtest.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:20:34 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://ocs.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:20:58 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://events.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:00 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://grafana.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:08 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://koala.ksr.io/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'Close'}
+https://elb-iapi.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:16 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://rproxy.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:21 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://omni.ksr.io/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:27 GMT', 'Content-Length': '0', 'Connection': 'keep-alive'}
+https://live.kickstarter.com/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:33 GMT', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://status.kickstarter.com/robots.txt?version=poc123
+{'Content-Type': 'text/html'}
+https://api.icy-lake.kickstarter.com/robots.txt?version=poc123
+{'Date': 'Sat, 03 Dec 2022 11:21:56 GMT', 'Content-Type': 'text/plain; charset=utf-8', 'Transfer-Encoding': 'chunked', 'Connection': 'keep-alive'}
+https://jobs.kickstarter.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://studio.kickstarter.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://updates.kickstarter.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-del21738'}
+https://community.codecademy.com/robots.txt?version=poc123
+{'Content-Type': 'text/html; charset=UTF-8', 'Referrer-Policy': 'no-referrer', 'Content-Length': '273', 'Date': 'Sat, 03 Dec 2022 11:23:32 GMT'}
+https://pro.codecademy.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://staging.discuss.codecademy.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://join.codecademy.com/robots.txt?version=poc123
+{'Content-length': '90', 'Cache-Control': 'no-cache', 'Connection': 'close', 'Content-Type': 'text/html'}
+https://newsletter.intigriti.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}
+https://click.intigriti.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'keep-alive', 'Date': 'Sat, 03 Dec 2022 15:02:12 GMT', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 c6009ddfc9f427867dff2ea4da6dffb4.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM50-C1', 'X-Amz-Cf-Id': 'KcCcCDVo7MsknInFoef5ystMmyHZBSCf_hwBjALFr3kPxRCLVmXsXA=='}
+https://click-stage.intigriti.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'keep-alive', 'Date': 'Sat, 03 Dec 2022 15:02:15 GMT', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 defc583148f78ecc5a2d1e640b68e462.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM50-C1', 'X-Amz-Cf-Id': 'nu-TbLqKaKydZiHb2ipJU2qopAaqFRbV78PyvIcxis7tYTKkvT4DBQ=='}
+https://click-uat.intigriti.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'keep-alive', 'Date': 'Sat, 03 Dec 2022 15:02:16 GMT', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 ed1fc43e4ced012f4fdf9e159d78af3c.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM50-C1', 'X-Amz-Cf-Id': 'Cclx5SLOysMUu_AGimjwL3pr2DdNPju_Kk6pvli3EUHzCpTNEasfBA=='}
+https://click-demo.intigriti.com/robots.txt?version=poc123
+{'Content-Length': '0', 'Connection': 'keep-alive', 'Date': 'Sat, 03 Dec 2022 15:02:16 GMT', 'X-Cache': 'Error from cloudfront', 'Via': '1.1 dcb6371435a8fec6aa5c3b2c88c86d30.cloudfront.net (CloudFront)', 'X-Amz-Cf-Pop': 'BOM50-C1', 'X-Amz-Cf-Id': 'Pfj0ndjRHlnODqsGNCiH3J89d5AqMpre67VXhnEb0VSHlnmngyoqBg=='}
+https://api.bolt.com/robots.txt?version=poc123
+{'Date': 'Sun, 04 Dec 2022 15:06:29 GMT', 'Content-Type': 'text/plain', 'Content-Length': '11', 'Connection': 'keep-alive', 'Server': 'envoy'}
+https://www.bolt.com/robots.txt?version=poc123
+{'Content-Type': 'text/plain; charset=utf-8', 'Connection': 'close'}

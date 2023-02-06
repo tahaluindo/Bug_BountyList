@@ -1,0 +1,2 @@
+https://swanbitcoin.com/robots.txt?version=poc123
+{'Connection': 'close', 'Content-Length': '11', 'content-type': 'text/plain; charset=utf-8', 'x-served-by': 'cache-mrs10553'}
